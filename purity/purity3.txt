@@ -1,0 +1,478 @@
+0.031604 knowledge 
+0.028206 logic 
+0.027481 reasoning 
+0.016946 program 
+0.014994 base 
+0.014577 constraint 
+0.012949 theory 
+0.012569 planning 
+0.012486 reinforcement 
+0.012058 programming 
+0.01106 design 
+0.008584 description 
+0.008417 maintenance 
+0.008417 belief 
+0.008062 solving 
+0.007739 relational 
+0.007525 qualitative 
+0.007335 representation 
+0.006619 schema 
+0.006522 learning reinforcement 
+0.006487 action 
+0.00641 knowledge system 
+0.006355 intelligence 
+0.006187 knowledge base 
+0.005964 inductive 
+0.005797 logical 
+0.005797 knowledge discovery 
+0.005686 diagnosis 
+0.005407 functional 
+0.005407 engineering 
+0.005351 satisfaction 
+0.005184 issue 
+0.005163 abstract 
+0.004961 logic programming 
+0.004961 knowledge representation 
+0.004937 computer 
+0.004899 game 
+0.00485 logic program 
+0.004794 production 
+0.004787 base data 
+0.004683 temporal 
+0.004571 specification 
+0.004562 dependency 
+0.004515 formal 
+0.004459 constraint satisfaction 
+0.004404 artificial 
+0.004348 physical 
+0.004348 abstraction 
+0.004332 domain 
+0.004181 system base 
+0.004125 theorem 
+0.004069 perspective 
+0.004069 practical 
+0.004012 relation 
+0.003958 goal 
+0.00379 integrity 
+0.00379 knowledge database 
+0.003679 default 
+0.003679 calculus 
+0.003623 intelligence artificial 
+0.003512 semantics 
+0.003456 experience 
+0.003456 revision 
+0.0034 fault 
+0.003345 propagation 
+0.003233 incomplete 
+0.003233 representing 
+0.003233 proof 
+0.003177 database application 
+0.003066 system design 
+0.00301 simulation 
+0.002954 form 
+0.002899 language database 
+0.002895 database design 
+0.002843 database discovery 
+0.002843 proving 
+0.002817 deductive 
+0.002787 report 
+0.002731 implementing 
+0.002731 theoretical 
+0.002676 checking 
+0.00262 propositional 
+0.002589 plan 
+0.002564 description logic 
+0.002564 design data 
+0.002508 rough 
+0.002508 scientific 
+0.002508 declarative 
+0.002508 prolog 
+0.002508 definition 
+0.002455 concept 
+0.002453 equilibrium 
+0.002434 integrating 
+0.002397 system production 
+0.002397 system reasoning 
+0.002341 system application 
+0.002341 preliminary 
+0.002285 database constraint 
+0.002285 inheritance 
+0.002285 system rule 
+0.002285 acquisition knowledge 
+0.002285 practice 
+0.002285 system base data 
+0.00223 quantitative 
+0.00223 tractable 
+0.00223 situation 
+0.00223 message 
+0.002174 foundation 
+0.002174 algebraic 
+0.002174 principle 
+0.002174 knowledge using 
+0.002118 diagnostic 
+0.002118 base management 
+0.002118 programming inductive 
+0.002118 learning system 
+0.002118 learning knowledge 
+0.002118 formula 
+0.002118 functional dependency 
+0.002118 equivalence 
+0.002108 based knowledge 
+0.002097 discovery 
+0.002062 reasoning temporal 
+0.002062 model relational 
+0.002062 theorem proving 
+0.002062 logic inductive 
+0.002062 modal 
+0.002062 based reasoning 
+0.002062 tolerant 
+0.002062 requirement 
+0.002062 based logic 
+0.002007 formation 
+0.002007 datalog 
+0.002007 language programming 
+0.002007 knowledge reasoning 
+0.002007 synthesis 
+0.002007 database rule 
+0.001951 multidatabase 
+0.001951 based constraint 
+0.001951 data abstract 
+0.001951 logic programming inductive 
+0.001951 universal 
+0.001895 knowledge data 
+0.001895 normal 
+0.001895 author 
+0.001895 representation system 
+0.001895 multiagent 
+0.001895 conflict 
+0.001895 expressive 
+0.001853 extended 
+0.00184 aspect 
+0.00184 base design 
+0.00184 logic system 
+0.00184 reasoning qualitative 
+0.00184 boolean 
+0.001835 panel 
+0.001784 security 
+0.001784 logic default 
+0.001784 constraint integrity 
+0.001784 knowledge expert 
+0.001784 database schema 
+0.001784 procedure 
+0.001784 nonmonotonic 
+0.001784 methodology 
+0.00178 system expert 
+0.001728 system approach 
+0.001728 hard 
+0.001728 science 
+0.001728 configuration 
+0.001728 procedural 
+0.001728 database abstract 
+0.001728 satisfiability 
+0.001672 analogy 
+0.001672 manipulation 
+0.001672 aided 
+0.001672 revision belief 
+0.001672 paper 
+0.001672 base relational 
+0.001672 database programming 
+0.001672 knowledge database discovery 
+0.001672 database panel 
+0.001672 database active 
+0.001617 knowledge approach 
+0.001617 knowledge domain 
+0.001617 learning concept 
+0.001617 transfer 
+0.001617 hardware 
+0.001617 direction 
+0.001603 type 
+0.001561 monotonic 
+0.001561 constraint temporal 
+0.001561 set rough 
+0.001561 clause 
+0.001561 database tool 
+0.001561 argument 
+0.001561 horn 
+0.001561 database information 
+0.00156 mapping 
+0.001505 basis 
+0.001505 difference 
+0.001505 logic reasoning 
+0.001505 commitment 
+0.001505 negation 
+0.001505 planning domain 
+0.001504 database relational 
+0.00149 computational 
+0.001451 model data 
+0.001449 verification 
+0.001449 equation 
+0.001449 learning game 
+0.001449 debugging 
+0.001449 title 
+0.001449 knowledge management 
+0.001449 reward 
+0.001449 database logical 
+0.001449 mapping schema 
+0.001449 approach design 
+0.001449 compilation 
+0.001449 hypothesis 
+0.001449 negotiation 
+0.001398 complexity 
+0.001394 normal form 
+0.001394 adding 
+0.001394 logic model 
+0.001394 learning inductive 
+0.001394 database specification 
+0.001394 base design data 
+0.001394 knowledge logic 
+0.001394 disjunctive 
+0.001394 model reasoning 
+0.001394 terminological 
+0.001394 database research 
+0.001377 acquisition 
+0.001338 language data 
+0.001338 circumscription 
+0.001338 step 
+0.001338 logic database 
+0.001338 computer aided 
+0.001338 mdps 
+0.001338 knowledge application 
+0.001338 skill 
+0.001338 observable 
+0.001338 based knowledge system 
+0.001287 database deductive 
+0.001282 reasoning constraint 
+0.001282 committee 
+0.001282 system abstract 
+0.001282 knowledge design 
+0.001282 theory practice 
+0.001282 preliminary report 
+0.001282 forward 
+0.001282 design physical 
+0.001282 tutorial 
+0.001282 knowledge model 
+0.001282 net 
+0.001282 circuit 
+0.001282 database integrity 
+0.001282 observation 
+0.001282 reasoning default 
+0.001282 diagnosis system 
+0.001282 relational algebra 
+0.001226 database implementation 
+0.001226 database technology 
+0.001226 knowledge system base 
+0.001226 tolerant fault 
+0.001226 engineering data 
+0.001226 database dependency 
+0.001226 integrating system 
+0.001226 abduction 
+0.001226 database semantics 
+0.001226 lisp 
+0.001226 quantified 
+0.001226 versus 
+0.001226 modular 
+0.001226 condition 
+0.001226 base management data 
+0.001226 meet 
+0.001226 logic modal 
+0.001216 algebra 
+0.001182 expert 
+0.001171 facility 
+0.001171 information incomplete 
+0.001171 inferring 
+0.001171 updating 
+0.001171 action reasoning 
+0.001171 system implementation 
+0.001171 introduction 
+0.001171 based programming 
+0.001171 system program 
+0.001171 argumentation 
+0.001171 telecommunication 
+0.001171 learning relational 
+0.001171 analogical 
+0.00112 tool 
+0.00103 meta 
+8.93E-4 database model 
+8.93E-4 data relational 
+7.69E-4 conceptual 
+7.46E-4 level 
+6.73E-4 property 
+6.49E-4 system relational 
+6.0E-4 explanation 
+6.0E-4 resolution 
+5.87E-4 database temporal 
+5.46E-4 evolution 
+5.27E-4 business 
+5.2E-4 partially 
+4.94E-4 refinement 
+4.65E-4 workflow 
+4.33E-4 role 
+4.09E-4 mechanism 
+4.01E-4 hierarchy 
+3.84E-4 dbms 
+3.76E-4 database approach 
+3.69E-4 heuristic 
+3.49E-4 preference 
+3.4E-4 software 
+2.91E-4 extending 
+2.75E-4 database system relational 
+2.68E-4 research 
+2.58E-4 overview 
+1.85E-4 model system 
+1.82E-4 application 
+1.72E-4 experimental 
+1.49E-4 fuzzy 
+9.4E-5 causal 
+9.0E-5 prototype 
+6.6E-5 extension 
+5.1E-5 framework 
+5.1E-5 based rule 
+4.3E-5 transformation 
+-3.0E-5 concurrent 
+-8.2E-5 stochastic 
+-1.3E-4 utility 
+-1.34E-4 object model 
+-1.73E-4 integration data 
+-1.82E-4 autonomous 
+-2.65E-4 future 
+-2.73E-4 extended abstract 
+-2.77E-4 change 
+-2.84E-4 operator 
+-3.22E-4 database update 
+-3.38E-4 exploiting 
+-3.47E-4 database using 
+-3.6E-4 policy 
+-3.84E-4 version 
+-3.96E-4 advanced 
+-4.03E-4 relationship 
+-4.23E-4 predicate 
+-5.11E-4 challenge 
+-5.52E-4 power 
+-5.71E-4 approach data 
+-5.92E-4 based database 
+-6.28E-4 table 
+-6.33E-4 system management data 
+-6.39E-4 incremental 
+-6.46E-4 object system oriented 
+-6.83E-4 using system 
+-7.11E-4 system oriented 
+-7.16E-4 implementation 
+-7.25E-4 inference 
+-7.55E-4 database system management 
+-7.7E-4 database management 
+-8.4E-4 application data 
+-8.72E-4 integration 
+-8.74E-4 technology 
+-8.93E-4 system management 
+-9.25E-4 flexible 
+-9.3E-4 decomposition 
+-9.37E-4 interpretation 
+-9.46E-4 symbolic 
+-0.001105 human 
+-0.001105 event 
+-0.001106 answer 
+-0.001131 database object system 
+-0.001156 managing 
+-0.001216 solution 
+-0.001268 based language 
+-0.001283 heterogeneous 
+-0.001291 modeling 
+-0.001299 experiment 
+-0.001335 automated 
+-0.001391 world 
+-0.001404 directed 
+-0.001405 consistency 
+-0.001435 recursive 
+-0.001456 partial 
+-0.001497 testing 
+-0.001499 learning approach 
+-0.001536 object system 
+-0.001568 monitoring 
+-0.001585 generalized 
+-0.00159 construction 
+-0.001658 database data 
+-0.00166 statistical 
+-0.001698 management data 
+-0.00174 system data 
+-0.001742 intelligent 
+-0.001794 language model 
+-0.001824 development 
+-0.001859 induction 
+-0.001899 database oriented 
+-0.001917 interaction 
+-0.001926 process 
+-0.002024 based approach 
+-0.002064 based system 
+-0.002107 database object oriented 
+-0.002155 protocol 
+-0.002175 execution 
+-0.002179 example 
+-0.002212 behavior 
+-0.002328 ontology 
+-0.002332 update 
+-0.002336 scheme 
+-0.002461 task 
+-0.002497 value 
+-0.002564 building 
+-0.002573 management 
+-0.002575 expression 
+-0.00263 understanding 
+-0.002801 based model 
+-0.002806 approach 
+-0.002828 learning model 
+-0.002888 driven 
+-0.002981 oriented 
+-0.002986 computing 
+-0.003024 object oriented 
+-0.00304 complex 
+-0.003091 learning based 
+-0.003125 robot 
+-0.003173 neural 
+-0.003174 function 
+-0.003192 result 
+-0.003242 system 
+-0.003309 towards 
+-0.003376 querying 
+-0.003442 environment 
+-0.003571 architecture 
+-0.003577 study 
+-0.003616 system information 
+-0.003674 interface 
+-0.003897 spatial 
+-0.003923 database object 
+-0.003989 generation 
+-0.004017 active 
+-0.004044 interactive 
+-0.004203 technique 
+-0.00428 index 
+-0.004667 transaction 
+-0.004909 multi 
+-0.004994 multiple 
+-0.00502 structure 
+-0.005226 parallel 
+-0.005453 probabilistic 
+-0.005457 support 
+-0.005498 evaluation 
+-0.005643 dynamic 
+-0.005802 space 
+-0.005818 automatic 
+-0.006043 database system 
+-0.006891 search 
+-0.007113 view 
+-0.007782 set 
+-0.007848 machine 
+-0.007951 analysis 
+-0.008397 method 
+-0.009542 semantic 
+-0.010487 rule 
+-0.010924 distributed 
+-0.012374 network 
+-0.012823 language 
+-0.014206 object 
+-0.01763 database 
+-0.020902 model 
+-0.022145 information 
+-0.022815 based 
+-0.024206 using 
+-0.034535 data 
+-0.040248 learning 

@@ -1,0 +1,478 @@
+0.1057 database 
+0.0913 system 
+0.0731 knowledge 
+0.0549 learning 
+0.0506 data 
+0.0498 logic 
+0.0485 reasoning 
+0.0439 model 
+0.0419 constraint 
+0.0369 relational 
+0.0369 based 
+0.0334 design 
+0.0334 approach 
+0.0332 base 
+0.0299 program 
+0.0297 planning 
+0.0292 theory 
+0.0287 programming 
+0.028 application 
+0.0259 representation 
+0.0235 management 
+0.0227 temporal 
+0.0223 rule 
+0.0223 language 
+0.022 reinforcement 
+0.0219 object 
+0.0201 schema 
+0.0199 domain 
+0.0199 discovery 
+0.0196 abstract 
+0.0192 database system 
+0.0181 using 
+0.0175 solving 
+0.016 oriented 
+0.0159 action 
+0.0152 description 
+0.0152 concept 
+0.0149 maintenance 
+0.0149 belief 
+0.0143 network 
+0.0143 game 
+0.0137 framework 
+0.0136 base data 
+0.0135 computer 
+0.0133 qualitative 
+0.0129 extended 
+0.0127 database relational 
+0.0126 relation 
+0.0124 information 
+0.0123 dependency 
+0.0123 expert 
+0.012 semantics 
+0.0115 learning reinforcement 
+0.0113 knowledge system 
+0.0112 intelligence 
+0.0111 set 
+0.011 tool 
+0.011 process 
+0.011 modeling 
+0.0109 complexity 
+0.0109 knowledge base 
+0.0109 inference 
+0.0105 inductive 
+0.0103 plan 
+0.0102 logical 
+0.0102 knowledge discovery 
+0.01 object oriented 
+0.01 diagnosis 
+0.0099 analysis 
+0.0095 functional 
+0.0095 engineering 
+0.0094 system management 
+0.0094 satisfaction 
+0.0094 integrating 
+0.0093 environment 
+0.0093 heuristic 
+0.0093 system data 
+0.0092 integration 
+0.0092 issue 
+0.0089 implementation 
+0.0088 logic programming 
+0.0088 knowledge representation 
+0.0086 logic program 
+0.0085 production 
+0.0084 deductive 
+0.0084 database design 
+0.0083 database object 
+0.0083 towards 
+0.0082 automatic 
+0.0081 specification 
+0.0081 system expert 
+0.0081 level 
+0.0081 acquisition 
+0.008 formal 
+0.0079 constraint satisfaction 
+0.0079 based system 
+0.0078 panel 
+0.0078 mapping 
+0.0078 artificial 
+0.0077 physical 
+0.0077 abstraction 
+0.0076 view 
+0.0075 update 
+0.0075 based knowledge 
+0.0075 technique 
+0.0074 system base 
+0.0074 database oriented 
+0.0073 machine 
+0.0073 theorem 
+0.0073 semantic 
+0.0073 method 
+0.0072 management data 
+0.0072 perspective 
+0.0072 dbms 
+0.0072 practical 
+0.007 goal 
+0.007 function 
+0.0068 research 
+0.0068 type 
+0.0067 integrity 
+0.0067 knowledge database 
+0.0066 mechanism 
+0.0066 architecture 
+0.0065 incremental 
+0.0065 model data 
+0.0065 default 
+0.0065 calculus 
+0.0064 distributed 
+0.0064 structure 
+0.0064 intelligence artificial 
+0.0063 probabilistic 
+0.0063 robot 
+0.0062 automated 
+0.0062 conceptual 
+0.0062 database object oriented 
+0.0061 experience 
+0.0061 explanation 
+0.0061 active 
+0.0061 database management 
+0.0061 resolution 
+0.0061 revision 
+0.006 fault 
+0.006 database approach 
+0.0059 propagation 
+0.0058 software 
+0.0057 incomplete 
+0.0057 human 
+0.0057 representing 
+0.0057 heterogeneous 
+0.0057 proof 
+0.0056 database application 
+0.0056 computational 
+0.0056 extended abstract 
+0.0056 space 
+0.0055 causal 
+0.0055 based model 
+0.0054 system design 
+0.0054 intelligent 
+0.0054 complex 
+0.0054 system relational 
+0.0054 dynamic 
+0.0054 technology 
+0.0053 business 
+0.0053 simulation 
+0.0053 fuzzy 
+0.0052 algebra 
+0.0052 change 
+0.0052 database deductive 
+0.0052 form 
+0.0052 challenge 
+0.0051 database model 
+0.0051 data relational 
+0.0051 language database 
+0.0051 role 
+0.005 database discovery 
+0.005 multiple 
+0.005 property 
+0.005 proving 
+0.0049 hierarchy 
+0.0049 world 
+0.0049 support 
+0.0049 decomposition 
+0.0049 report 
+0.0048 implementing 
+0.0048 theoretical 
+0.0048 result 
+0.0047 relationship 
+0.0047 meta 
+0.0047 checking 
+0.0046 propositional 
+0.0045 event 
+0.0045 description logic 
+0.0045 design data 
+0.0044 rough 
+0.0044 scientific 
+0.0044 declarative 
+0.0044 generalized 
+0.0044 experimental 
+0.0044 prolog 
+0.0044 definition 
+0.0044 preference 
+0.0044 querying 
+0.0043 evolution 
+0.0043 equilibrium 
+0.0043 stochastic 
+0.0043 model system 
+0.0042 system production 
+0.0042 transformation 
+0.0042 system reasoning 
+0.0041 transaction 
+0.0041 system application 
+0.0041 extending 
+0.0041 preliminary 
+0.004 database constraint 
+0.004 inheritance 
+0.004 system rule 
+0.004 acquisition knowledge 
+0.004 database data 
+0.004 study 
+0.004 statistical 
+0.004 practice 
+0.004 system base data 
+0.004 workflow 
+0.0039 quantitative 
+0.0039 based approach 
+0.0039 tractable 
+0.0039 situation 
+0.0039 message 
+0.0039 generation 
+0.0039 evaluation 
+0.0038 interactive 
+0.0038 database temporal 
+0.0038 foundation 
+0.0038 algebraic 
+0.0038 refinement 
+0.0038 principle 
+0.0038 database system relational 
+0.0038 partially 
+0.0038 knowledge using 
+0.0037 diagnostic 
+0.0037 base management 
+0.0037 programming inductive 
+0.0037 learning system 
+0.0037 learning knowledge 
+0.0037 learning based 
+0.0037 formula 
+0.0037 predicate 
+0.0037 functional dependency 
+0.0037 exploiting 
+0.0037 equivalence 
+0.0037 ontology 
+0.0037 object system 
+0.0036 reasoning temporal 
+0.0036 model relational 
+0.0036 theorem proving 
+0.0036 logic inductive 
+0.0036 modal 
+0.0036 based reasoning 
+0.0036 tolerant 
+0.0036 policy 
+0.0036 requirement 
+0.0036 based logic 
+0.0035 formation 
+0.0035 datalog 
+0.0035 concurrent 
+0.0035 language programming 
+0.0035 knowledge reasoning 
+0.0035 based database 
+0.0035 synthesis 
+0.0035 database rule 
+0.0034 multidatabase 
+0.0034 value 
+0.0034 based constraint 
+0.0034 data abstract 
+0.0034 execution 
+0.0034 logic programming inductive 
+0.0034 operator 
+0.0034 universal 
+0.0033 computing 
+0.0033 knowledge data 
+0.0033 overview 
+0.0033 normal 
+0.0033 author 
+0.0033 representation system 
+0.0033 multiagent 
+0.0033 conflict 
+0.0033 expressive 
+0.0032 aspect 
+0.0032 solution 
+0.0032 base design 
+0.0032 behavior 
+0.0032 logic system 
+0.0032 scheme 
+0.0032 extension 
+0.0032 reasoning qualitative 
+0.0032 boolean 
+0.0031 security 
+0.0031 logic default 
+0.0031 system approach 
+0.0031 hard 
+0.0031 constraint integrity 
+0.0031 application data 
+0.0031 science 
+0.0031 learning model 
+0.0031 experiment 
+0.0031 knowledge expert 
+0.0031 based rule 
+0.0031 database schema 
+0.0031 autonomous 
+0.0031 configuration 
+0.0031 procedure 
+0.0031 procedural 
+0.0031 database abstract 
+0.0031 nonmonotonic 
+0.0031 spatial 
+0.0031 directed 
+0.0031 satisfiability 
+0.0031 database system management 
+0.0031 system oriented 
+0.0031 methodology 
+0.003 analogy 
+0.003 development 
+0.003 recursive 
+0.003 manipulation 
+0.003 aided 
+0.003 revision belief 
+0.003 paper 
+0.003 base relational 
+0.003 partial 
+0.003 database programming 
+0.003 knowledge database discovery 
+0.003 database panel 
+0.003 database active 
+0.0029 interaction 
+0.0029 answer 
+0.0029 parallel 
+0.0029 knowledge approach 
+0.0029 knowledge domain 
+0.0029 learning concept 
+0.0029 transfer 
+0.0029 hardware 
+0.0029 direction 
+0.0029 induction 
+0.0029 prototype 
+0.0028 neural 
+0.0028 monotonic 
+0.0028 system information 
+0.0028 utility 
+0.0028 interpretation 
+0.0028 constraint temporal 
+0.0028 set rough 
+0.0028 clause 
+0.0028 database tool 
+0.0028 multi 
+0.0028 argument 
+0.0028 horn 
+0.0028 table 
+0.0028 database information 
+0.0027 version 
+0.0027 basis 
+0.0027 difference 
+0.0027 logic reasoning 
+0.0027 commitment 
+0.0027 negation 
+0.0027 construction 
+0.0027 testing 
+0.0027 example 
+0.0027 approach data 
+0.0027 planning domain 
+0.0026 verification 
+0.0026 equation 
+0.0026 learning game 
+0.0026 debugging 
+0.0026 driven 
+0.0026 title 
+0.0026 managing 
+0.0026 knowledge management 
+0.0026 reward 
+0.0026 database logical 
+0.0026 mapping schema 
+0.0026 task 
+0.0026 object system oriented 
+0.0026 approach design 
+0.0026 compilation 
+0.0026 hypothesis 
+0.0026 negotiation 
+0.0025 normal form 
+0.0025 learning approach 
+0.0025 adding 
+0.0025 consistency 
+0.0025 logic model 
+0.0025 learning inductive 
+0.0025 search 
+0.0025 database specification 
+0.0025 base design data 
+0.0025 interface 
+0.0025 knowledge logic 
+0.0025 disjunctive 
+0.0025 model reasoning 
+0.0025 system management data 
+0.0025 terminological 
+0.0025 database research 
+0.0024 language data 
+0.0024 database using 
+0.0024 circumscription 
+0.0024 step 
+0.0024 logic database 
+0.0024 computer aided 
+0.0024 mdps 
+0.0024 knowledge application 
+0.0024 skill 
+0.0024 observable 
+0.0024 based knowledge system 
+0.0024 understanding 
+0.0023 reasoning constraint 
+0.0023 committee 
+0.0023 system abstract 
+0.0023 knowledge design 
+0.0023 theory practice 
+0.0023 preliminary report 
+0.0023 forward 
+0.0023 design physical 
+0.0023 tutorial 
+0.0023 knowledge model 
+0.0023 power 
+0.0023 net 
+0.0023 circuit 
+0.0023 future 
+0.0023 flexible 
+0.0023 database integrity 
+0.0023 observation 
+0.0023 reasoning default 
+0.0023 diagnosis system 
+0.0023 building 
+0.0023 relational algebra 
+0.0023 object model 
+0.0022 database implementation 
+0.0022 advanced 
+0.0022 database technology 
+0.0022 knowledge system base 
+0.0022 tolerant fault 
+0.0022 index 
+0.0022 engineering data 
+0.0022 database dependency 
+0.0022 integrating system 
+0.0022 abduction 
+0.0022 database semantics 
+0.0022 symbolic 
+0.0022 integration data 
+0.0022 lisp 
+0.0022 quantified 
+0.0022 versus 
+0.0022 modular 
+0.0022 condition 
+0.0022 monitoring 
+0.0022 base management data 
+0.0022 expression 
+0.0022 database update 
+0.0022 meet 
+0.0022 logic modal 
+0.0021 facility 
+0.0021 information incomplete 
+0.0021 inferring 
+0.0021 using system 
+0.0021 updating 
+0.0021 action reasoning 
+0.0021 system implementation 
+0.0021 introduction 
+0.0021 based programming 
+0.0021 system program 
+0.0021 language model 
+0.0021 argumentation 
+0.0021 based language 
+0.0021 telecommunication 
+0.0021 database object system 
+0.0021 learning relational 
+0.0021 analogical 
+0.0021 protocol 

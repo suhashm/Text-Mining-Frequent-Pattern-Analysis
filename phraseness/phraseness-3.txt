@@ -1,0 +1,478 @@
+5.4319 logic programming inductive 
+5.1157 database object oriented 
+4.9485 normal form 
+4.7121 preliminary report 
+4.6013 theorem proving 
+4.5956 tolerant fault 
+4.3768 object system oriented 
+4.2951 intelligence artificial 
+4.0832 computer aided 
+4.0245 set rough 
+4.0049 base management data 
+3.7832 base design data 
+3.4831 revision belief 
+3.4609 functional dependency 
+3.3741 information incomplete 
+3.3504 object oriented 
+3.2709 system base data 
+3.1198 system management data 
+3.1009 extended abstract 
+2.9896 constraint satisfaction 
+2.9557 knowledge database discovery 
+2.9545 theory practice 
+2.7968 mapping schema 
+2.598 database system management 
+2.5143 programming inductive 
+2.4799 logic modal 
+2.4646 relational algebra 
+2.4181 constraint integrity 
+2.3771 database system relational 
+2.2799 knowledge system base 
+2.2778 database object system 
+2.2759 logic default 
+2.26 based knowledge system 
+2.2525 learning reinforcement 
+2.1791 design physical 
+2.0913 base data 
+1.9717 system expert 
+1.9716 reasoning default 
+1.9517 knowledge discovery 
+1.9379 logic inductive 
+1.9225 acquisition knowledge 
+1.8117 logic programming 
+1.7981 management data 
+1.7915 description logic 
+1.7748 database deductive 
+1.7487 logic program 
+1.7081 language programming 
+1.7001 system production 
+1.617 reasoning qualitative 
+1.5674 base management 
+1.5425 integration data 
+1.5321 knowledge representation 
+1.5212 database active 
+1.5051 knowledge base 
+1.5035 planning domain 
+1.5004 engineering data 
+1.4812 system management 
+1.4709 database oriented 
+1.448 learning inductive 
+1.3309 database technology 
+1.3084 based rule 
+1.2789 database panel 
+1.2708 database object 
+1.253 knowledge expert 
+1.2461 data abstract 
+1.2323 learning concept 
+1.2319 database research 
+1.2244 based model 
+1.1943 reasoning temporal 
+1.1833 learning game 
+1.1801 database relational 
+1.1632 database integrity 
+1.1623 based approach 
+1.0767 base design 
+1.0734 model data 
+1.0642 knowledge using 
+1.0617 constraint temporal 
+1.0593 database specification 
+1.0194 based knowledge 
+1.0084 data relational 
+1.0075 database update 
+0.9867 design data 
+0.9827 action reasoning 
+0.938 system implementation 
+0.92 integrating system 
+0.919 based language 
+0.9038 diagnosis system 
+0.8978 database management 
+0.8907 system base 
+0.8892 system information 
+0.8805 base relational 
+0.8707 database discovery 
+0.8638 database design 
+0.8609 database logical 
+0.8609 database tool 
+0.8543 object model 
+0.8484 based system 
+0.8384 database implementation 
+0.8324 approach design 
+0.81 model relational 
+0.8009 application data 
+0.8003 based constraint 
+0.7735 language database 
+0.7456 language model 
+0.7431 database information 
+0.7372 language data 
+0.7335 system oriented 
+0.7098 based reasoning 
+0.6944 system data 
+0.6871 database system 
+0.6838 based logic 
+0.6819 system rule 
+0.6746 knowledge domain 
+0.6672 based programming 
+0.6412 database application 
+0.6237 object system 
+0.6126 learning based 
+0.5746 system design 
+0.5342 database semantics 
+0.532 database approach 
+0.5275 knowledge system 
+0.5099 database dependency 
+0.482 system application 
+0.4737 system relational 
+0.4683 database temporal 
+0.4539 approach data 
+0.4057 database rule 
+0.3972 knowledge management 
+0.3948 database schema 
+0.3878 database abstract 
+0.3475 representation system 
+0.2948 learning approach 
+0.2356 learning model 
+0.2355 system abstract 
+0.2229 using system 
+0.2103 database using 
+0.1569 knowledge approach 
+0.1447 knowledge application 
+0.1444 model reasoning 
+0.1183 logic model 
+0.1069 reasoning constraint 
+0.0981 database model 
+0.0951 logic reasoning 
+0.0772 model system 
+0.0195 learning relational 
+0.0013 system approach 
+-0.0014 knowledge reasoning 
+-0.0284 database programming 
+-0.046 system reasoning 
+-0.0712 learning knowledge 
+-0.0749 knowledge design 
+-0.0937 database constraint 
+-0.0962 based database 
+-0.1002 knowledge data 
+-0.144 knowledge database 
+-0.2792 system program 
+-0.2815 database data 
+-0.2935 learning system 
+-0.3367 logic system 
+-0.3492 knowledge model 
+-0.392 knowledge logic 
+-0.8013 logic database 
+-2.2472 database 
+-2.3933 system 
+-2.6156 knowledge 
+-2.902 learning 
+-2.9841 data 
+-2.9998 logic 
+-3.0258 reasoning 
+-3.126 model 
+-3.1719 constraint 
+-3.2994 relational 
+-3.2994 based 
+-3.4003 design 
+-3.4003 approach 
+-3.4062 base 
+-3.5093 program 
+-3.5159 planning 
+-3.5326 theory 
+-3.5496 programming 
+-3.5773 application 
+-3.6542 representation 
+-3.7498 management 
+-3.7839 temporal 
+-3.8014 rule 
+-3.8014 language 
+-3.8147 reinforcement 
+-3.8191 object 
+-3.9082 schema 
+-3.918 domain 
+-3.918 discovery 
+-3.933 abstract 
+-4.0114 using 
+-4.0445 solving 
+-4.1326 oriented 
+-4.1387 action 
+-4.1894 description 
+-4.1894 concept 
+-4.209 maintenance 
+-4.209 belief 
+-4.2496 network 
+-4.2496 game 
+-4.2918 framework 
+-4.3063 computer 
+-4.321 qualitative 
+-4.3511 extended 
+-4.3743 relation 
+-4.39 information 
+-4.398 dependency 
+-4.398 expert 
+-4.4223 semantics 
+-4.4901 intelligence 
+-4.4989 set 
+-4.5078 tool 
+-4.5078 process 
+-4.5078 modeling 
+-4.5168 complexity 
+-4.5168 inference 
+-4.5535 inductive 
+-4.5724 plan 
+-4.5819 logical 
+-4.6013 diagnosis 
+-4.6112 analysis 
+-4.6516 functional 
+-4.6516 engineering 
+-4.662 satisfaction 
+-4.662 integrating 
+-4.6724 environment 
+-4.683 heuristic 
+-4.6937 integration 
+-4.6937 issue 
+-4.7265 implementation 
+-4.772 production 
+-4.7837 deductive 
+-4.7955 towards 
+-4.8075 automatic 
+-4.8196 specification 
+-4.8196 level 
+-4.8196 acquisition 
+-4.8319 formal 
+-4.8569 panel 
+-4.8569 mapping 
+-4.8569 artificial 
+-4.8696 physical 
+-4.8696 abstraction 
+-4.8825 view 
+-4.8956 update 
+-4.8956 technique 
+-4.9222 machine 
+-4.9222 theorem 
+-4.9222 semantic 
+-4.9222 method 
+-4.9359 perspective 
+-4.9359 dbms 
+-4.9359 practical 
+-4.9636 goal 
+-4.9636 function 
+-4.9922 research 
+-4.9922 type 
+-5.0068 integrity 
+-5.0216 mechanism 
+-5.0216 architecture 
+-5.0367 incremental 
+-5.0367 default 
+-5.0367 calculus 
+-5.0519 distributed 
+-5.0519 structure 
+-5.0674 probabilistic 
+-5.0674 robot 
+-5.0832 automated 
+-5.0832 conceptual 
+-5.0992 experience 
+-5.0992 explanation 
+-5.0992 active 
+-5.0992 resolution 
+-5.0992 revision 
+-5.1154 fault 
+-5.132 propagation 
+-5.1488 software 
+-5.1659 incomplete 
+-5.1659 human 
+-5.1659 representing 
+-5.1659 heterogeneous 
+-5.1659 proof 
+-5.1833 computational 
+-5.1833 space 
+-5.201 causal 
+-5.219 intelligent 
+-5.219 complex 
+-5.219 dynamic 
+-5.219 technology 
+-5.2373 business 
+-5.2373 simulation 
+-5.2373 fuzzy 
+-5.256 algebra 
+-5.256 change 
+-5.256 form 
+-5.256 challenge 
+-5.2751 role 
+-5.2945 multiple 
+-5.2945 property 
+-5.2945 proving 
+-5.3143 hierarchy 
+-5.3143 world 
+-5.3143 support 
+-5.3143 decomposition 
+-5.3143 report 
+-5.3345 implementing 
+-5.3345 theoretical 
+-5.3345 result 
+-5.3551 relationship 
+-5.3551 meta 
+-5.3551 checking 
+-5.3762 propositional 
+-5.3977 event 
+-5.4196 rough 
+-5.4196 scientific 
+-5.4196 declarative 
+-5.4196 generalized 
+-5.4196 experimental 
+-5.4196 prolog 
+-5.4196 definition 
+-5.4196 preference 
+-5.4196 querying 
+-5.4421 evolution 
+-5.4421 equilibrium 
+-5.4421 stochastic 
+-5.4651 transformation 
+-5.4886 transaction 
+-5.4886 extending 
+-5.4886 preliminary 
+-5.5127 inheritance 
+-5.5127 study 
+-5.5127 statistical 
+-5.5127 practice 
+-5.5127 workflow 
+-5.5374 quantitative 
+-5.5374 tractable 
+-5.5374 situation 
+-5.5374 message 
+-5.5374 generation 
+-5.5374 evaluation 
+-5.5628 interactive 
+-5.5628 foundation 
+-5.5628 algebraic 
+-5.5628 refinement 
+-5.5628 principle 
+-5.5628 partially 
+-5.5887 diagnostic 
+-5.5887 formula 
+-5.5887 predicate 
+-5.5887 exploiting 
+-5.5887 equivalence 
+-5.5887 ontology 
+-5.6154 modal 
+-5.6154 tolerant 
+-5.6154 policy 
+-5.6154 requirement 
+-5.6428 formation 
+-5.6428 datalog 
+-5.6428 concurrent 
+-5.6428 synthesis 
+-5.671 multidatabase 
+-5.671 value 
+-5.671 execution 
+-5.671 operator 
+-5.671 universal 
+-5.7 computing 
+-5.7 overview 
+-5.7 normal 
+-5.7 author 
+-5.7 multiagent 
+-5.7 conflict 
+-5.7 expressive 
+-5.7298 aspect 
+-5.7298 solution 
+-5.7298 behavior 
+-5.7298 scheme 
+-5.7298 extension 
+-5.7298 boolean 
+-5.7606 security 
+-5.7606 experiment 
+-5.7606 procedure 
+-5.7606 nonmonotonic 
+-5.7606 methodology 
+-5.7923 hard 
+-5.7923 science 
+-5.7923 autonomous 
+-5.7923 configuration 
+-5.7923 procedural 
+-5.7923 spatial 
+-5.7923 directed 
+-5.7923 satisfiability 
+-5.8251 analogy 
+-5.8251 development 
+-5.8251 recursive 
+-5.8251 manipulation 
+-5.8251 aided 
+-5.8251 paper 
+-5.8251 partial 
+-5.859 interaction 
+-5.859 answer 
+-5.859 parallel 
+-5.859 transfer 
+-5.859 hardware 
+-5.859 direction 
+-5.859 induction 
+-5.859 prototype 
+-5.8941 neural 
+-5.8941 monotonic 
+-5.8941 utility 
+-5.8941 interpretation 
+-5.8941 clause 
+-5.8941 multi 
+-5.8941 argument 
+-5.8941 horn 
+-5.8941 table 
+-5.9305 version 
+-5.9305 basis 
+-5.9305 difference 
+-5.9305 commitment 
+-5.9305 negation 
+-5.9305 construction 
+-5.9305 testing 
+-5.9305 example 
+-5.9682 verification 
+-5.9682 equation 
+-5.9682 debugging 
+-5.9682 driven 
+-5.9682 title 
+-5.9682 managing 
+-5.9682 reward 
+-5.9682 task 
+-5.9682 compilation 
+-5.9682 hypothesis 
+-5.9682 negotiation 
+-6.0074 adding 
+-6.0074 consistency 
+-6.0074 search 
+-6.0074 interface 
+-6.0074 disjunctive 
+-6.0074 terminological 
+-6.0483 circumscription 
+-6.0483 step 
+-6.0483 mdps 
+-6.0483 skill 
+-6.0483 observable 
+-6.0483 understanding 
+-6.0908 committee 
+-6.0908 forward 
+-6.0908 tutorial 
+-6.0908 power 
+-6.0908 net 
+-6.0908 circuit 
+-6.0908 future 
+-6.0908 flexible 
+-6.0908 observation 
+-6.0908 building 
+-6.1353 advanced 
+-6.1353 index 
+-6.1353 abduction 
+-6.1353 symbolic 
+-6.1353 lisp 
+-6.1353 quantified 
+-6.1353 versus 
+-6.1353 modular 
+-6.1353 condition 
+-6.1353 monitoring 
+-6.1353 expression 
+-6.1353 meet 
+-6.1818 facility 
+-6.1818 inferring 
+-6.1818 updating 
+-6.1818 introduction 
+-6.1818 argumentation 
+-6.1818 telecommunication 
+-6.1818 analogical 
+-6.1818 protocol 

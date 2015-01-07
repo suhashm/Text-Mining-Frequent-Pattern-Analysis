@@ -1,0 +1,544 @@
+0.050585 mining 
+0.039049 graph 
+0.031505 algorithm 
+0.0214 pattern 
+0.019781 mining data 
+0.018223 association 
+0.016487 approximation 
+0.012637 rule association 
+0.012474 random 
+0.012311 frequent 
+0.011335 series 
+0.01101 mining pattern 
+0.010955 path 
+0.01075 optimal 
+0.010531 finding 
+0.010522 time series 
+0.009871 bound 
+0.009526 dimensional 
+0.008856 tree 
+0.008732 metric 
+0.008623 rule mining 
+0.008623 mining association 
+0.008443 fast 
+0.008355 time 
+0.008081 discovering 
+0.007864 reduction 
+0.007332 set 
+0.007322 preserving 
+0.006888 mining frequent 
+0.006779 improved 
+0.006671 rule mining association 
+0.0064 maximum 
+0.006346 minimum 
+0.006291 algorithm approximation 
+0.006111 rule 
+0.005532 polynomial 
+0.005343 space 
+0.005029 approximate 
+0.00499 sparse 
+0.004981 privacy 
+0.004881 dimension 
+0.004773 algorithm mining 
+0.004718 data set 
+0.004664 planar 
+0.004664 dimensional data 
+0.00461 datasets 
+0.004553 matching 
+0.004176 frequent pattern 
+0.004176 dimensionality 
+0.004162 expression 
+0.00415 sequential 
+0.004122 algorithm graph 
+0.004068 outlier 
+0.004068 genetic 
+0.003996 similarity 
+0.003796 privacy preserving 
+0.003783 clustering data 
+0.003742 free 
+0.003742 mining efficient 
+0.003688 closed 
+0.003627 algorithm efficient 
+0.00358 approximating 
+0.003556 distance 
+0.003525 data pattern 
+0.003525 string 
+0.003471 algorithm time 
+0.003471 bounded 
+0.003417 lower 
+0.003417 data privacy 
+0.003363 itemsets 
+0.003308 length 
+0.003308 entropy 
+0.0032 algorithm fast 
+0.0032 near 
+0.0032 massive 
+0.003091 compression 
+0.003091 mining graph 
+0.003091 bound lower 
+0.003037 dimensionality reduction 
+0.003037 gene 
+0.002973 cluster 
+0.002931 algorithm data 
+0.002929 based mining 
+0.002929 tree algorithm 
+0.002929 algorithm optimal 
+0.002929 sequential pattern 
+0.002929 using mining 
+0.002874 convex 
+0.002874 minimal 
+0.002874 sense 
+0.00282 tree data 
+0.00282 search similarity 
+0.00282 analysis data 
+0.002766 tree search 
+0.002766 mining stream 
+0.002658 rule algorithm 
+0.002658 mining frequent pattern 
+0.002603 rule data 
+0.002603 sampling 
+0.002603 data series 
+0.002603 time data series 
+0.002549 item 
+0.002549 time mining 
+0.002549 sequential mining 
+0.002549 connectivity 
+0.002534 computing 
+0.002495 cut 
+0.002495 mining set 
+0.002495 shortest 
+0.002495 data preserving 
+0.002441 max 
+0.002441 frequent itemsets 
+0.002441 categorical 
+0.002441 sat 
+0.002441 algorithm improved 
+0.002386 partition 
+0.002386 maximal 
+0.002386 anomaly 
+0.002386 discrete 
+0.002351 map 
+0.002332 itemset 
+0.002278 sequential mining pattern 
+0.002278 walk 
+0.002224 tree pattern 
+0.002224 average 
+0.002224 algorithm genetic 
+0.002224 packing 
+0.002224 efficient pattern 
+0.002177 weighted 
+0.002169 subsequence 
+0.002169 spanning 
+0.002169 interval 
+0.002169 random graph 
+0.002169 path shortest 
+0.002169 tree mining 
+0.002115 duplicate 
+0.002115 mining privacy 
+0.002115 algorithm search 
+0.002115 time polynomial 
+0.002115 faster 
+0.002115 mining closed 
+0.002115 deterministic 
+0.002115 space dimensional 
+0.002115 time linear 
+0.002115 biological 
+0.002061 gene expression 
+0.002061 data frequent 
+0.002061 coloring 
+0.002007 regular 
+0.002007 scaling 
+0.002007 data association 
+0.002007 graph path 
+0.002007 data privacy preserving 
+0.001952 mining data stream 
+0.001952 transition 
+0.001952 constant 
+0.001952 greedy 
+0.001952 database mining 
+0.001952 time pattern 
+0.001952 spatio 
+0.001952 degree 
+0.001898 time graph 
+0.001898 data cluster 
+0.001898 search local 
+0.001898 graph planar 
+0.001898 space search 
+0.001898 discovery pattern 
+0.001898 search efficient 
+0.001898 similar 
+0.001898 embedding 
+0.001864 partitioning 
+0.001844 algorithm finding 
+0.001844 algorithm association 
+0.001844 complete 
+0.00179 algorithm set 
+0.00179 detection data 
+0.00179 tree efficient 
+0.00179 data graph 
+0.00179 compact 
+0.00179 exact 
+0.00179 mining itemsets 
+0.00179 random walk 
+0.00179 matching pattern 
+0.001736 lattice 
+0.001736 dense 
+0.001736 based time 
+0.001736 evolving 
+0.001736 sum 
+0.001736 matching algorithm 
+0.001736 steiner 
+0.001736 triangulation 
+0.001736 data expression 
+0.001736 connected 
+0.001736 wavelet 
+0.001736 subgraphs 
+0.00172 time data 
+0.001689 flow 
+0.001681 using rule 
+0.001681 trajectory 
+0.001681 neighborhood 
+0.001681 application mining 
+0.001681 data fast 
+0.001681 match 
+0.001681 mining sequence 
+0.001681 algorithm linear 
+0.001681 covering 
+0.001681 data gene 
+0.001681 multivariate 
+0.001627 data finding 
+0.001627 data similarity 
+0.001627 minimizing 
+0.001627 synopsis 
+0.001627 rule algorithm association 
+0.001627 mining data pattern 
+0.001619 edge 
+0.001573 semistructured 
+0.001573 algorithm path 
+0.001573 comparing 
+0.001573 space efficient 
+0.001573 algorithm maximum 
+0.001573 spatio temporal 
+0.001573 mining data privacy 
+0.001573 customer 
+0.001573 node 
+0.001519 discovery rule 
+0.001519 numerical 
+0.001519 heuristic search 
+0.001519 time search 
+0.001519 iteration 
+0.001519 multi dimensional 
+0.001519 cover 
+0.001519 bipartite 
+0.001519 perfect 
+0.001519 sorting 
+0.001519 tree optimal 
+0.001518 matrix 
+0.001464 frequent efficient 
+0.001464 data gene expression 
+0.001464 constraint mining 
+0.001464 correlated 
+0.001464 mining technique 
+0.001464 matching time 
+0.001464 algorithm mining data 
+0.001464 algorithm minimum 
+0.001464 expected 
+0.001464 detection outlier 
+0.001464 vertex 
+0.001464 pattern discovering 
+0.001464 discovery data 
+0.001464 detection anomaly 
+0.001439 binary 
+0.00141 mining preserving 
+0.00141 mining temporal 
+0.00141 graph pattern 
+0.00141 mining itemset 
+0.00141 tree spanning 
+0.00141 tree graph 
+0.00141 data indexing 
+0.00141 random field 
+0.00141 data massive 
+0.00141 improved approximation 
+0.00141 mining fast 
+0.00141 algorithm pattern 
+0.00141 based pattern 
+0.00141 tight 
+0.00141 mining series 
+0.00141 mining frequent itemsets 
+0.00141 time mining series 
+0.00141 structured data 
+0.00141 core 
+0.001356 rule efficient 
+0.001356 pattern series 
+0.001356 warping 
+0.001356 generator 
+0.001356 graph directed 
+0.001356 time pattern series 
+0.001356 disjoint 
+0.001356 dimensional clustering 
+0.001356 market 
+0.001356 fixed 
+0.001356 application mining data 
+0.001356 euclidean 
+0.001356 using pattern 
+0.001356 arbitrary 
+0.001356 space algorithm 
+0.001356 constructing 
+0.001356 clustering efficient 
+0.001356 intrusion 
+0.001356 data cube 
+0.001356 frequent closed 
+0.001325 simple 
+0.001302 time similarity 
+0.001302 data categorical 
+0.001302 cleaning 
+0.001302 data discovering 
+0.001302 stable 
+0.001302 oblivious 
+0.001302 space metric 
+0.001302 search fast 
+0.001302 space time 
+0.001302 efficient computation 
+0.001302 entropy maximum 
+0.001302 ratio 
+0.001302 recognizing 
+0.001302 using association 
+0.001302 mining privacy preserving 
+0.001302 clustering graph 
+0.001302 factor 
+0.001302 rule data association 
+0.001278 using data 
+0.00126 computation 
+0.001251 based data 
+0.001247 data subspace 
+0.001247 frequent stream 
+0.001247 based graph 
+0.001247 mining gene 
+0.001247 based series 
+0.001247 algorithm polynomial 
+0.001247 algorithm simple 
+0.001247 using rule association 
+0.001247 symmetric 
+0.001247 emerging 
+0.001247 suffix 
+0.001247 trend 
+0.001247 graph efficient 
+0.001247 likelihood 
+0.001247 subgraph 
+0.001247 graph fast 
+0.001247 square 
+0.001247 time mining data 
+0.001247 analysis algorithm 
+0.001247 locality 
+0.001247 numeric 
+0.001247 pagerank 
+0.001235 geometric 
+0.001206 efficiently 
+0.001193 clique 
+0.001193 algorithm randomized 
+0.001193 time efficient 
+0.001193 deletion 
+0.001193 dimensional algorithm 
+0.001193 algorithm frequent 
+0.001193 algorithm combinatorial 
+0.001193 mining data frequent 
+0.001193 embeddings 
+0.001193 algorithm faster 
+0.001193 based time series 
+0.001193 sense disambiguation 
+0.001193 similarity series 
+0.001193 time similarity series 
+0.001193 tree induction 
+0.001193 detection duplicate 
+0.001193 optimal near 
+0.001193 related 
+0.001193 clustering mining 
+0.001193 efficient set 
+0.001193 weight 
+0.001139 tree binary 
+0.001139 symmetry 
+0.001139 clustering time 
+0.001139 search optimal 
+0.001139 algorithm extended 
+0.001139 dimension reduction 
+0.001139 algorithm incremental 
+0.001139 algorithm abstract 
+0.001139 space data 
+0.001139 microarray 
+0.001139 pattern temporal 
+0.001139 graph partitioning 
+0.001139 search data 
+0.001139 bound tight 
+0.001139 frequent itemset 
+0.001139 forest 
+0.001139 dynamic tree 
+0.001139 based outlier 
+0.001139 dimensional indexing 
+0.001139 rule set 
+0.001118 correlation 
+0.001108 testing 
+9.97E-4 value 
+9.94E-4 detection 
+9.53E-4 statistic 
+9.46E-4 pruning 
+8.93E-4 sequence 
+8.33E-4 construction 
+7.94E-4 directed 
+6.98E-4 randomized 
+6.19E-4 clustering algorithm 
+5.19E-4 histogram 
+4.8E-4 cube 
+4.71E-4 detecting 
+4.22E-4 phase 
+3.97E-4 counting 
+3.92E-4 depth 
+2.77E-4 solution 
+2.74E-4 field 
+2.74E-4 combinatorial 
+1.67E-4 disambiguation 
+1.57E-4 subspace 
+1.19E-4 data technique 
+8.0E-5 indexing 
+6.9E-5 application data 
+2.0E-6 constrained 
+-3.0E-6 power 
+-5.0E-6 event 
+-1.9E-5 product 
+-5.6E-5 hashing 
+-1.07E-4 based algorithm 
+-1.22E-4 relative 
+-1.28E-4 selectivity 
+-1.33E-4 method data 
+-1.52E-4 accurate 
+-1.63E-4 data stream 
+-1.85E-4 direct 
+-2.1E-4 partial 
+-2.21E-4 location 
+-2.25E-4 list 
+-2.52E-4 based detection 
+-2.65E-4 decomposition 
+-2.81E-4 identifying 
+-3.0E-4 algorithm parallel 
+-3.11E-4 spatial data 
+-3.25E-4 pair 
+-3.33E-4 projection 
+-3.48E-4 compressed 
+-3.48E-4 independent 
+-3.84E-4 grid 
+-3.86E-4 using algorithm 
+-4.22E-4 evolutionary 
+-4.41E-4 visualization 
+-4.44E-4 dictionary 
+-4.54E-4 utility 
+-4.69E-4 based tree 
+-4.78E-4 maintaining 
+-5.01E-4 exploring 
+-5.27E-4 scheme 
+-5.3E-4 dynamic data 
+-5.73E-4 chain 
+-6.0E-4 labeling 
+-6.15E-4 line 
+-6.19E-4 based rule 
+-6.47E-4 window 
+-6.48E-4 using tree 
+-6.51E-4 noisy 
+-6.97E-4 rank 
+-6.98E-4 structure data 
+-7.1E-4 mean 
+-7.64E-4 generalized 
+-8.15E-4 correspondence 
+-8.36E-4 policy 
+-8.38E-4 incremental 
+-8.4E-4 change 
+-8.9E-4 test 
+-8.98E-4 exploiting 
+-9.11E-4 sample 
+-9.2E-4 extended abstract 
+-0.001078 region 
+-0.001099 density 
+-0.00111 fuzzy 
+-0.001115 estimating 
+-0.001193 linear 
+-0.001248 streaming 
+-0.001266 property 
+-0.001317 induction 
+-0.001323 attribute 
+-0.001333 measure 
+-0.001343 local 
+-0.001443 data efficient 
+-0.001517 effective 
+-0.001535 statistical 
+-0.001577 generalization 
+-0.001583 multidimensional 
+-0.001647 routing 
+-0.00166 top 
+-0.001688 based clustering 
+-0.001718 generating 
+-0.001763 error 
+-0.001793 log 
+-0.001888 distribution 
+-0.001961 quality 
+-0.001987 heuristic 
+-0.002074 searching 
+-0.002199 decision tree 
+-0.002288 cross 
+-0.0024 cost 
+-0.002412 optimizing 
+-0.002423 data 
+-0.002459 self 
+-0.002492 scalable 
+-0.002573 stream 
+-0.002646 prediction 
+-0.0027 inference 
+-0.002734 complexity 
+-0.0028 word 
+-0.002814 online 
+-0.002834 dependency 
+-0.002877 relation 
+-0.00299 modeling 
+-0.003012 scale 
+-0.00305 shape 
+-0.003082 function 
+-0.003147 structured 
+-0.003155 result 
+-0.003192 estimation 
+-0.003215 robust 
+-0.003287 extended 
+-0.003321 technique 
+-0.003392 regression 
+-0.003482 solving 
+-0.003552 study 
+-0.003634 concept 
+-0.003691 towards 
+-0.003708 framework 
+-0.003718 adaptive 
+-0.004095 generation 
+-0.004308 spatial 
+-0.004526 support 
+-0.004735 dynamic 
+-0.004825 discovery 
+-0.00503 multiple 
+-0.005148 via 
+-0.005166 structure 
+-0.005301 abstract 
+-0.005361 hierarchical 
+-0.005535 index 
+-0.005823 text 
+-0.006092 temporal 
+-0.006568 programming 
+-0.006676 representation 
+-0.006732 multi 
+-0.006778 decision 
+-0.006819 efficient 
+-0.007104 application 
+-0.007146 parallel 
+-0.007602 analysis 
+-0.008318 network 
+-0.009542 method 
+-0.010426 classification 
+-0.010892 constraint 
+-0.011587 clustering 
+-0.017831 search 
+-0.018681 database 
+-0.023032 based 
+-0.029068 using 

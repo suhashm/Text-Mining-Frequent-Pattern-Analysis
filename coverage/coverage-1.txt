@@ -1,0 +1,561 @@
+0.1538 learning 
+0.1085 using 
+0.0847 model 
+0.0739 based 
+0.0602 classification 
+0.0504 feature 
+0.049 clustering 
+0.0479 network 
+0.0389 recognition 
+0.0381 selection 
+0.035 method 
+0.0325 algorithm 
+0.0319 machine 
+0.0309 text 
+0.0309 approach 
+0.0305 analysis 
+0.0294 bayesian 
+0.0289 classifier 
+0.0274 multi 
+0.0264 image 
+0.0251 decision 
+0.0248 kernel 
+0.0236 tree 
+0.0233 vector 
+0.0229 hierarchical 
+0.0224 support 
+0.0215 data 
+0.0211 probabilistic 
+0.0207 via 
+0.0198 multiple 
+0.0192 structure 
+0.0185 combining 
+0.0184 class 
+0.0182 supervised 
+0.0173 markov 
+0.0171 semi 
+0.0156 object 
+0.0155 segmentation 
+0.0154 active 
+0.0152 learning using 
+0.0151 feature selection 
+0.0151 support vector 
+0.0149 detection 
+0.0146 nearest 
+0.0142 neighbor 
+0.0141 boosting 
+0.014 robust 
+0.0132 neural 
+0.013 estimation 
+0.013 function 
+0.0128 regression 
+0.0127 improving 
+0.0127 machine vector 
+0.0127 process 
+0.0127 linear 
+0.0125 neighbor nearest 
+0.0125 variable 
+0.0124 using model 
+0.0124 categorization 
+0.0121 support machine 
+0.0119 support machine vector 
+0.0119 learning based 
+0.0117 learning machine 
+0.0117 online 
+0.0117 extraction 
+0.0117 dynamic 
+0.0117 local 
+0.0115 comparison 
+0.0113 ensemble 
+0.0112 document 
+0.0112 classification text 
+0.0112 based model 
+0.0112 ranking 
+0.0111 learning model 
+0.0111 training 
+0.0111 network bayesian 
+0.0109 semi supervised 
+0.0109 framework 
+0.0109 unsupervised 
+0.0109 prediction 
+0.0104 network neural 
+0.0102 mixture 
+0.0101 inference 
+0.0101 decision tree 
+0.01 learning network 
+0.0099 instance 
+0.0098 automatic 
+0.0097 classification using 
+0.0095 tracking 
+0.0095 visual 
+0.0094 hidden 
+0.0091 cost 
+0.009 adaptive 
+0.0089 representation 
+0.0088 sequence 
+0.0088 attribute 
+0.0088 based using 
+0.0085 hybrid 
+0.0085 space 
+0.0084 example 
+0.0083 learning supervised 
+0.0083 rule 
+0.0082 performance 
+0.0082 structured 
+0.0082 probability 
+0.0082 error 
+0.0081 pattern 
+0.0081 learning active 
+0.008 bayes 
+0.008 identification 
+0.0079 distribution 
+0.0079 empirical 
+0.0079 using network 
+0.0079 using recognition 
+0.0078 text categorization 
+0.0076 learning bayesian 
+0.0073 motion 
+0.0072 sensitive 
+0.0072 continuous 
+0.0072 study 
+0.0071 learning algorithm 
+0.0071 spectral 
+0.0071 vision 
+0.0071 induction 
+0.007 strategy 
+0.007 statistical 
+0.0069 based clustering 
+0.0068 human 
+0.0067 learning classification 
+0.0066 generalized 
+0.0066 line 
+0.0066 model markov 
+0.0065 structural 
+0.0065 based feature 
+0.0064 protein 
+0.0063 learning multi 
+0.0062 application 
+0.0062 discriminative 
+0.0061 fast 
+0.006 using clustering 
+0.006 model probabilistic 
+0.0059 predicting 
+0.0059 efficient 
+0.0058 learning approach 
+0.0058 task 
+0.0058 generalization 
+0.0057 entity 
+0.0057 method based 
+0.0057 learning semi 
+0.0057 using text 
+0.0057 using feature 
+0.0057 classification based 
+0.0056 classification feature 
+0.0055 learning feature 
+0.0055 relational 
+0.0055 gaussian 
+0.0055 scale 
+0.0055 component 
+0.0054 naive 
+0.0054 discriminant 
+0.0054 model mixture 
+0.0054 conditional 
+0.0054 auction 
+0.0053 parameter 
+0.0053 value 
+0.0053 learning semi supervised 
+0.0052 clustering hierarchical 
+0.0052 accuracy 
+0.0052 scene 
+0.0052 weighting 
+0.0052 invariant 
+0.0051 color 
+0.0051 incremental 
+0.0051 method learning 
+0.0051 evidence 
+0.0051 density 
+0.0051 evaluation 
+0.0051 learning multiple 
+0.005 contour 
+0.005 prior 
+0.005 model selection 
+0.005 using image 
+0.005 robot 
+0.005 technique 
+0.0049 learning instance 
+0.0049 object recognition 
+0.0048 learning via 
+0.0048 model hidden 
+0.0048 svm 
+0.0048 noise 
+0.0047 based network 
+0.0047 combination 
+0.0047 set 
+0.0047 video 
+0.0047 learning network bayesian 
+0.0047 margin 
+0.0047 activity 
+0.0047 partial 
+0.0047 knowledge 
+0.0045 manifold 
+0.0045 speech 
+0.0045 hidden markov 
+0.0045 factorization 
+0.0044 based selection 
+0.0044 closure 
+0.0044 nonlinear 
+0.0044 distance 
+0.0044 model clustering 
+0.0044 learning kernel 
+0.0043 transitive 
+0.0043 cost sensitive 
+0.0043 region 
+0.0043 estimating 
+0.0043 criterion 
+0.0042 matrix 
+0.0042 based recognition 
+0.0042 interaction 
+0.0042 field 
+0.0042 based algorithm 
+0.0042 using classifier 
+0.0042 causal 
+0.0042 model hidden markov 
+0.0042 learning data 
+0.0041 learning example 
+0.0041 learning function 
+0.0041 based approach 
+0.004 aggregation 
+0.004 method using 
+0.004 dimensional 
+0.004 plan 
+0.004 using machine 
+0.004 low 
+0.004 theory 
+0.0039 feature text 
+0.0039 curve 
+0.0039 structure network 
+0.0039 learning decision 
+0.0039 localization 
+0.0039 single 
+0.0039 symbolic 
+0.0039 novel 
+0.0039 classification model 
+0.0038 image segmentation 
+0.0038 label 
+0.0038 optimization 
+0.0038 learning tree 
+0.0038 surface 
+0.0038 explanation 
+0.0038 level 
+0.0038 discovery 
+0.0038 bayes naive 
+0.0038 resolution 
+0.0037 relation 
+0.0037 using object 
+0.0037 bias 
+0.0037 rank 
+0.0037 frame 
+0.0037 classifier bayesian 
+0.0037 clustering document 
+0.0037 learning text 
+0.0037 labeling 
+0.0037 using algorithm 
+0.0036 subspace 
+0.0036 discretization 
+0.0036 diagram 
+0.0036 latent 
+0.0036 sample 
+0.0036 decision markov 
+0.0036 projection 
+0.0036 improve 
+0.0036 matching 
+0.0036 learning unsupervised 
+0.0036 output 
+0.0036 stochastic 
+0.0035 learning markov 
+0.0035 using detection 
+0.0035 based image 
+0.0035 using bayesian 
+0.0035 closure transitive 
+0.0035 model recognition 
+0.0035 unlabeled 
+0.0035 simple 
+0.0035 using vector 
+0.0034 solution 
+0.0034 learning structure 
+0.0034 alignment 
+0.0034 reconstruction 
+0.0034 view 
+0.0034 texture 
+0.0034 analysis discriminant 
+0.0034 noisy 
+0.0034 subset 
+0.0034 mean 
+0.0034 gradient 
+0.0034 code 
+0.0034 regularization 
+0.0033 using multi 
+0.0033 signal 
+0.0033 transformation 
+0.0033 complex 
+0.0033 dual 
+0.0033 boundary 
+0.0033 model hierarchical 
+0.0033 generative 
+0.0033 learning selection 
+0.0033 efficiency 
+0.0032 filter 
+0.0032 topic 
+0.0032 using decision 
+0.0032 sampling 
+0.0032 pose 
+0.0032 geometry 
+0.0032 method classification 
+0.0032 domain 
+0.0032 joint 
+0.0032 evolutionary 
+0.0032 learning classifier 
+0.0032 labeled 
+0.0031 link 
+0.0031 based text 
+0.0031 process markov 
+0.0031 using analysis 
+0.0031 effective 
+0.0031 behavior 
+0.0031 event 
+0.0031 learning analysis 
+0.0031 named 
+0.0031 global 
+0.0031 failure 
+0.0031 construction 
+0.0031 positive 
+0.0031 classification hierarchical 
+0.0031 classification machine 
+0.0031 correlation 
+0.0031 learning image 
+0.0031 process gaussian 
+0.003 using approach 
+0.003 using support 
+0.003 clustering algorithm 
+0.003 using tree 
+0.003 clustering supervised 
+0.003 feature extraction 
+0.003 principal 
+0.003 illumination 
+0.003 simultaneous 
+0.003 finite 
+0.003 weighted 
+0.003 using probabilistic 
+0.003 based analysis 
+0.003 parametric 
+0.003 appearance 
+0.0029 learning hierarchical 
+0.0029 reading 
+0.0029 learning rule 
+0.0029 multi class 
+0.0029 decision process 
+0.0029 model text 
+0.0029 combinatorial 
+0.0029 iterative 
+0.0029 learner 
+0.0029 selective 
+0.0029 negative 
+0.0029 action 
+0.0029 model bayesian 
+0.0029 learning online 
+0.0028 perception 
+0.0028 dependency 
+0.0028 using neural 
+0.0028 interpretation 
+0.0028 model multiple 
+0.0028 predictive 
+0.0028 model image 
+0.0028 model data 
+0.0028 social 
+0.0028 independence 
+0.0028 type 
+0.0028 using data 
+0.0028 rate 
+0.0028 using hierarchical 
+0.0028 dirichlet 
+0.0028 using class 
+0.0027 model linear 
+0.0027 using estimation 
+0.0027 learning combining 
+0.0027 incorporating 
+0.0027 learning support 
+0.0027 analyzing 
+0.0027 model network 
+0.0027 using improving 
+0.0027 exploiting 
+0.0027 preference 
+0.0027 classification multi 
+0.0027 classifying 
+0.0027 analysis component 
+0.0027 voting 
+0.0026 named entity 
+0.0026 learning recognition 
+0.0026 learning adaptive 
+0.0026 based kernel 
+0.0026 feature image 
+0.0026 learning class 
+0.0026 edge 
+0.0026 instance multiple 
+0.0026 logistic 
+0.0026 category 
+0.0026 pairwise 
+0.0026 collection 
+0.0026 classification data 
+0.0026 based tree 
+0.0026 mixed 
+0.0026 model feature 
+0.0026 using kernel 
+0.0026 record 
+0.0026 using multiple 
+0.0026 using selection 
+0.0026 classification support 
+0.0026 decision process markov 
+0.0026 multiclass 
+0.0026 using network neural 
+0.0025 using structure 
+0.0025 clustering approach 
+0.0025 risk 
+0.0025 based data 
+0.0025 network social 
+0.0025 learning clustering 
+0.0025 discrimination 
+0.0025 learning ranking 
+0.0025 classification kernel 
+0.0025 classification vector 
+0.0025 effect 
+0.0025 using segmentation 
+0.0025 self 
+0.0025 lexical 
+0.0025 svms 
+0.0025 model approach 
+0.0025 using markov 
+0.0025 learning vector 
+0.0024 roc 
+0.0024 model latent 
+0.0024 algorithm network 
+0.0024 unified 
+0.0024 selection text 
+0.0024 method clustering 
+0.0024 based instance 
+0.0024 accurate 
+0.0024 soft 
+0.0024 lazy 
+0.0024 constrained 
+0.0024 test 
+0.0024 based support 
+0.0024 learning local 
+0.0024 valued 
+0.0024 influence 
+0.0024 classification class 
+0.0024 using document 
+0.0024 classification approach 
+0.0024 using machine vector 
+0.0024 using support vector 
+0.0024 decomposition 
+0.0024 sequential 
+0.0024 tensor 
+0.0024 clustering data 
+0.0024 model analysis 
+0.0024 evaluating 
+0.0023 binary 
+0.0023 based classifier 
+0.0023 learning instance multiple 
+0.0023 interactive 
+0.0023 cluster 
+0.0023 rare 
+0.0023 network markov 
+0.0023 learning task 
+0.0023 bagging 
+0.0023 classification support vector 
+0.0023 based detection 
+0.0023 clustering semi 
+0.0023 classification using text 
+0.0023 sketch 
+0.0023 pair 
+0.0023 based bayesian 
+0.0023 text classifier 
+0.0023 learning probabilistic 
+0.0023 learning sensitive 
+0.0023 model algorithm 
+0.0023 model combining 
+0.0023 detecting 
+0.0023 classification supervised 
+0.0023 pruning 
+0.0023 using support machine vector 
+0.0023 sensor 
+0.0023 using prediction 
+0.0023 using support machine 
+0.0023 gesture 
+0.0022 learning comparison 
+0.0022 matrix factorization 
+0.0022 learning process 
+0.0022 algorithm selection 
+0.0022 weak 
+0.0022 recognition pattern 
+0.0022 relative 
+0.0022 based feature selection 
+0.0022 combining multiple 
+0.0022 topological 
+0.0022 based hierarchical 
+0.0022 bottom 
+0.0022 utility 
+0.0022 space vector 
+0.0022 classification document 
+0.0022 learning cost 
+0.0022 refinement 
+0.0022 based structure 
+0.0022 collective 
+0.0022 learning neural 
+0.0022 classification support machine 
+0.0022 partially 
+0.0022 model process 
+0.0022 clustering semi supervised 
+0.0022 limited 
+0.0022 learning framework 
+0.0022 clustering text 
+0.0022 component principal 
+0.0022 estimate 
+0.0022 model estimation 
+0.0022 building 
+0.0022 counting 
+0.0021 learning training 
+0.0021 coding 
+0.0021 classifier naive 
+0.0021 direct 
+0.0021 robustness 
+0.0021 classifier bayes 
+0.0021 using active 
+0.0021 feature selection text 
+0.0021 via clustering 
+0.0021 transductive 
+0.0021 classification support machine vector 
+0.0021 computational 
+0.0021 objective 
+0.0021 imbalanced 
+0.0021 randomized 
+0.0021 batch 
+0.0021 regularized 
+0.0021 classification machine vector 
+0.0021 learning object 
+0.0021 meta 
+0.0021 learning support vector 
+0.0021 classification selection 
+0.0021 linkage 
+0.0021 classification image 
+0.0021 minimization 
+0.0021 model prediction 
+0.0021 generation 
+0.0021 regression logistic 
+0.0021 model tree 
+0.0021 compound 
+0.0021 mapping 
+0.0021 based segmentation 
+0.0021 learn 
+0.0021 varying 
+0.0021 object model 
+0.0021 clustering spectral 

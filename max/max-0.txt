@@ -1,0 +1,400 @@
+170 approximate 
+134 distance 
+123 rule mining association 
+123 via 
+116 algorithm approximation 
+113 computing 
+108 clustering data 
+107 algorithm efficient 
+102 sampling 
+93 value 
+92 sparse 
+90 matrix 
+87 data set 
+87 scheme 
+86 map 
+86 weighted 
+86 dimensional data 
+85 function 
+85 datasets 
+83 flow 
+83 attribute 
+80 estimation 
+76 algorithm graph 
+74 online 
+74 decision tree 
+73 based data 
+73 measure 
+73 line 
+69 generalized 
+69 edge 
+69 free 
+69 data efficient 
+69 mining efficient 
+66 geometric 
+66 correlation 
+66 approximating 
+65 string 
+65 using data 
+64 algorithm time 
+64 bounded 
+64 representation 
+63 searching 
+62 complexity 
+61 length 
+60 construction 
+60 error 
+59 algorithm fast 
+58 event 
+57 compression 
+57 testing 
+57 mining graph 
+57 decomposition 
+57 partial 
+57 bound lower 
+56 dimensionality reduction 
+56 efficiently 
+55 classification 
+54 clustering algorithm 
+54 based mining 
+54 based algorithm 
+54 tree algorithm 
+54 algorithm optimal 
+54 using mining 
+53 convex 
+53 minimal 
+52 solution 
+52 tree data 
+52 search similarity 
+52 analysis data 
+52 detecting 
+51 tree search 
+51 pruning 
+51 statistical 
+50 distribution 
+50 independent 
+49 mining frequent pattern 
+49 extended abstract 
+48 location 
+48 time data series 
+48 programming 
+47 item 
+47 framework 
+47 statistic 
+47 connectivity 
+47 shape 
+46 cut 
+46 scale 
+46 multiple 
+46 change 
+46 mining set 
+46 cost 
+45 max 
+45 sat 
+45 generation 
+45 algorithm improved 
+44 partition 
+44 maximal 
+44 towards 
+44 network 
+44 constrained 
+44 discrete 
+43 based clustering 
+43 generating 
+42 sequential mining pattern 
+41 tree pattern 
+41 average 
+41 algorithm genetic 
+41 packing 
+41 hierarchical 
+41 efficient pattern 
+40 subsequence 
+40 interval 
+40 random graph 
+40 path shortest 
+40 tree mining 
+40 projection 
+40 visualization 
+40 using algorithm 
+39 algorithm search 
+39 time polynomial 
+39 mining closed 
+39 deterministic 
+39 space dimensional 
+39 fuzzy 
+39 time linear 
+39 biological 
+38 modeling 
+38 study 
+38 coloring 
+38 counting 
+37 regular 
+37 scaling 
+37 effective 
+37 index 
+37 histogram 
+37 graph path 
+37 depth 
+37 top 
+37 data privacy preserving 
+37 density 
+36 regression 
+36 mining data stream 
+36 transition 
+36 constant 
+36 greedy 
+36 database mining 
+36 scalable 
+36 degree 
+35 data technique 
+35 time graph 
+35 data cluster 
+35 search local 
+35 graph planar 
+35 product 
+35 space search 
+35 discovery pattern 
+35 phase 
+35 search efficient 
+35 similar 
+35 result 
+35 embedding 
+34 algorithm finding 
+34 complete 
+34 window 
+34 labeling 
+33 algorithm set 
+33 detection data 
+33 tree efficient 
+33 log 
+33 data graph 
+33 compact 
+33 exact 
+33 random walk 
+33 matching pattern 
+32 lattice 
+32 word 
+32 dense 
+32 evolving 
+32 sum 
+32 matching algorithm 
+32 steiner 
+32 evolutionary 
+32 triangulation 
+32 connected 
+32 wavelet 
+32 subgraphs 
+31 hashing 
+31 trajectory 
+31 neighborhood 
+31 data fast 
+31 match 
+31 self 
+31 rank 
+31 mining sequence 
+31 algorithm linear 
+31 covering 
+31 multivariate 
+30 data finding 
+30 data similarity 
+30 minimizing 
+30 synopsis 
+30 rule algorithm association 
+30 mining data pattern 
+29 multidimensional 
+29 semistructured 
+29 algorithm path 
+29 comparing 
+29 space efficient 
+29 algorithm maximum 
+29 spatio temporal 
+29 routing 
+29 mining data privacy 
+29 power 
+29 customer 
+29 node 
+29 concept 
+28 discovery rule 
+28 numerical 
+28 heuristic search 
+28 exploring 
+28 time search 
+28 text 
+28 accurate 
+28 noisy 
+28 iteration 
+28 multi dimensional 
+28 test 
+28 cover 
+28 bipartite 
+28 perfect 
+28 property 
+28 support 
+28 sorting 
+28 selectivity 
+28 tree optimal 
+27 frequent efficient 
+27 data gene expression 
+27 constraint mining 
+27 correlated 
+27 mining technique 
+27 matching time 
+27 algorithm mining data 
+27 adaptive 
+27 algorithm minimum 
+27 expected 
+27 detection outlier 
+27 vertex 
+27 discovery data 
+27 pattern discovering 
+27 detection anomaly 
+26 spatial data 
+26 relative 
+26 mining temporal 
+26 graph pattern 
+26 mining itemset 
+26 tree spanning 
+26 tree graph 
+26 data indexing 
+26 random field 
+26 data massive 
+26 mean 
+26 improved approximation 
+26 mining fast 
+26 region 
+26 algorithm pattern 
+26 based pattern 
+26 mining frequent itemsets 
+26 time mining series 
+26 structured data 
+26 core 
+25 rule efficient 
+25 warping 
+25 generator 
+25 graph directed 
+25 time pattern series 
+25 disjoint 
+25 dimensional clustering 
+25 market 
+25 fixed 
+25 application mining data 
+25 euclidean 
+25 using pattern 
+25 arbitrary 
+25 space algorithm 
+25 constructing 
+25 clustering efficient 
+25 intrusion 
+25 data cube 
+25 frequent closed 
+24 method data 
+24 structure data 
+24 data categorical 
+24 grid 
+24 cleaning 
+24 utility 
+24 data discovering 
+24 stable 
+24 oblivious 
+24 space metric 
+24 based detection 
+24 space time 
+24 search fast 
+24 efficient computation 
+24 policy 
+24 entropy maximum 
+24 ratio 
+24 recognizing 
+24 maintaining 
+24 mining privacy preserving 
+24 clustering graph 
+24 robust 
+24 factor 
+24 rule data association 
+24 estimating 
+23 direct 
+23 data subspace 
+23 frequent stream 
+23 based graph 
+23 mining gene 
+23 dictionary 
+23 quality 
+23 algorithm polynomial 
+23 algorithm simple 
+23 using rule association 
+23 symmetric 
+23 emerging 
+23 based rule 
+23 list 
+23 suffix 
+23 trend 
+23 optimizing 
+23 graph efficient 
+23 inference 
+23 likelihood 
+23 subgraph 
+23 graph fast 
+23 exploiting 
+23 square 
+23 time mining data 
+23 analysis algorithm 
+23 locality 
+23 generalization 
+23 numeric 
+23 pagerank 
+22 clique 
+22 algorithm randomized 
+22 time efficient 
+22 deletion 
+22 dimensional algorithm 
+22 using tree 
+22 algorithm frequent 
+22 algorithm combinatorial 
+22 mining data frequent 
+22 embeddings 
+22 algorithm faster 
+22 cross 
+22 based time series 
+22 sense disambiguation 
+22 streaming 
+22 based tree 
+22 prediction 
+22 pair 
+22 time similarity series 
+22 tree induction 
+22 detection duplicate 
+22 optimal near 
+22 related 
+22 clustering mining 
+22 efficient set 
+22 weight 
+21 relation 
+21 tree binary 
+21 symmetry 
+21 clustering time 
+21 search optimal 
+21 algorithm parallel 
+21 algorithm extended 
+21 dimension reduction 
+21 dependency 
+21 algorithm incremental 
+21 sample 
+21 algorithm abstract 
+21 space data 
+21 microarray 
+21 dynamic data 
+21 pattern temporal 
+21 compressed 
+21 correspondence 
+21 graph partitioning 
+21 search data 
+21 bound tight 
+21 frequent itemset 
+21 forest 
+21 dynamic tree 
+21 based outlier 
+21 identifying 
+21 solving 
+21 dimensional indexing 
+21 rule set 
+21 chain 

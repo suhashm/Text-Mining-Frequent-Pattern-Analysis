@@ -1,0 +1,564 @@
+6.7278 web world wide 
+6.1881 based retrieval image content 
+6.0284 language information retrieval cross 
+5.2617 service web composition 
+4.7709 language natural interface 
+4.7335 abstract poster 
+4.6331 world wide 
+4.2828 digital library 
+4.2769 answering question 
+4.224 system multi agent 
+4.199 language retrieval cross 
+4.1561 retrieval relevance feedback 
+4.1311 based image content 
+3.8771 language information cross 
+3.7888 retrieval image content 
+3.6442 test collection 
+3.5614 network social 
+3.5605 language system natural 
+3.5069 similarity measure 
+3.3723 filtering collaborative 
+3.3005 service composition 
+3.2846 result web search 
+3.2465 relevance feedback 
+3.137 robot mobile 
+3.1299 information retrieval cross 
+3.0221 based retrieval content 
+2.9754 web search engine 
+2.9521 semantic latent 
+2.7232 based retrieval image 
+2.7183 language natural 
+2.4355 multi agent 
+2.4178 language model retrieval 
+2.4004 evaluation information retrieval 
+2.3571 mining data 
+2.3537 system recommender 
+2.2732 language cross 
+2.2507 search engine 
+2.2187 management data 
+2.1105 language information retrieval 
+2.107 user interface 
+2.1041 automatic generation 
+2.0836 model information retrieval 
+2.072 language model information 
+2.0008 result search 
+1.9989 system information retrieval 
+1.9972 search keyword 
+1.9557 information query retrieval 
+1.9059 information approach retrieval 
+1.8924 web page 
+1.7999 web wide 
+1.7884 system expert 
+1.7654 image content 
+1.7591 natural interface 
+1.7258 web site 
+1.6638 using information retrieval 
+1.6427 web composition 
+1.628 xml document 
+1.6252 clustering document 
+1.6154 semantic indexing 
+1.5894 based model retrieval 
+1.5555 document summarization 
+1.4933 structured document 
+1.4563 information retrieval text 
+1.4369 application data 
+1.429 based information retrieval 
+1.4282 collection document 
+1.4281 system retrieval document 
+1.4247 based content 
+1.4016 web world 
+1.3687 using feedback 
+1.3283 retrieval cross 
+1.3155 based similarity 
+1.2889 mining text 
+1.2798 language query 
+1.2696 service web 
+1.2597 language interface 
+1.2546 information retrieval 
+1.2419 system management 
+1.2352 information extraction 
+1.2317 retrieval probabilistic 
+1.2266 based ontology 
+1.1887 language model 
+1.1824 ranking search 
+1.176 system multi 
+1.1511 based clustering 
+1.1339 retrieval image 
+1.1258 retrieval music 
+1.1209 concept based 
+1.0564 based approach 
+1.0453 search xml 
+1.0412 information theoretic 
+1.0378 information access 
+1.0118 using query 
+1.0084 information cross 
+1.0027 based system retrieval 
+0.9911 retrieval abstract 
+0.9683 web mining 
+0.959 based knowledge 
+0.958 system understanding 
+0.9577 language generation 
+0.9468 semantic analysis 
+0.944 evaluation retrieval 
+0.8991 retrieval content 
+0.8861 based filtering 
+0.8765 integration information 
+0.8607 using analysis 
+0.8599 based image 
+0.8563 web log 
+0.8364 based indexing 
+0.8352 web link 
+0.8222 query search 
+0.8095 web searching 
+0.8046 web application 
+0.8042 retrieval document 
+0.7861 document term 
+0.773 result web 
+0.7726 based model 
+0.761 extraction document 
+0.7337 web driven 
+0.7305 using model 
+0.7132 semantic web 
+0.687 web search 
+0.6848 semantic using 
+0.6797 system interactive 
+0.6778 query document 
+0.6772 web query 
+0.6771 retrieval text 
+0.674 document relevance 
+0.6681 retrieval indexing 
+0.6675 based collaborative 
+0.644 system natural 
+0.6436 retrieval feedback 
+0.6407 information source 
+0.6264 web extraction 
+0.6252 model retrieval 
+0.6016 system interface 
+0.5992 analysis system 
+0.5986 model query 
+0.5894 structured retrieval 
+0.5854 web management 
+0.5811 query retrieval 
+0.5811 retrieval relevance 
+0.5796 web source 
+0.5516 system retrieval 
+0.5462 evaluation system 
+0.5366 web data 
+0.5339 system information 
+0.5312 automatic document 
+0.5271 web content 
+0.5244 collection retrieval 
+0.4969 using document 
+0.4943 text document 
+0.4797 web engine 
+0.4797 system data 
+0.4756 system agent 
+0.4735 based retrieval 
+0.4704 based system 
+0.4658 evaluation information 
+0.4556 using web 
+0.4292 model user 
+0.4156 retrieval term 
+0.4144 language using 
+0.4041 using retrieval 
+0.4015 based analysis 
+0.3844 based extraction 
+0.3821 using information 
+0.3439 based relevance 
+0.3427 based user 
+0.3399 language retrieval 
+0.3383 web towards 
+0.3303 based document 
+0.3161 system content 
+0.3129 model information 
+0.3125 system user 
+0.2991 using search 
+0.2953 interface retrieval 
+0.2945 language system 
+0.2818 approach retrieval 
+0.2755 user search 
+0.2732 semantic model 
+0.2731 web study 
+0.2697 information filtering 
+0.2654 based term 
+0.2576 language text 
+0.2301 language information 
+0.2297 model document 
+0.226 information context 
+0.2255 system image 
+0.2194 based agent 
+0.2173 based query 
+0.2067 automatic web 
+0.2033 approach document 
+0.1908 based service 
+0.1768 information approach 
+0.1599 retrieval interactive 
+0.1411 system text 
+0.1382 automatic retrieval 
+0.1335 based semantic 
+0.1226 based language 
+0.0927 web user 
+0.0864 context retrieval 
+0.0813 using system 
+0.0716 based using 
+0.0689 based text 
+0.061 based natural 
+0.0592 based search 
+0.0571 based application 
+0.0257 based web 
+0.0234 semantic document 
+0.0088 search text 
+0.0034 information text 
+-0.0227 approach search 
+-0.0318 model system 
+-0.0446 system document 
+-0.0482 based information 
+-0.0525 information query 
+-0.0586 application information 
+-0.0807 web approach 
+-0.0981 web analysis 
+-0.1012 information mining 
+-0.1573 user information 
+-0.1792 user retrieval 
+-0.215 web document 
+-0.2887 search document 
+-0.309 semantic retrieval 
+-0.316 information document 
+-0.3275 language document 
+-0.3353 semantic information 
+-0.3849 semantic search 
+-0.3926 model web 
+-0.5417 web text 
+-0.635 web information 
+-0.6883 system search 
+-0.797 web system 
+-0.8431 information search 
+-0.9216 language web 
+-0.9693 search retrieval 
+-1.1598 web retrieval 
+-2.0947 web 
+-2.107 information 
+-2.1905 retrieval 
+-2.4458 based 
+-2.5769 system 
+-2.6452 search 
+-2.8712 document 
+-3.0118 language 
+-3.1636 model 
+-3.1804 semantic 
+-3.253 user 
+-3.274 text 
+-3.2766 using 
+-3.4473 approach 
+-3.5786 agent 
+-3.619 service 
+-3.6456 query 
+-3.7769 data 
+-3.7769 natural 
+-3.7946 analysis 
+-3.8217 application 
+-3.8217 automatic 
+-3.8544 content 
+-3.8591 image 
+-4.0022 mining 
+-4.0077 engine 
+-4.0133 relevance 
+-4.0301 term 
+-4.0529 interface 
+-4.1003 extraction 
+-4.1064 context 
+-4.1311 interactive 
+-4.1311 evaluation 
+-4.15 filtering 
+-4.1564 generation 
+-4.1628 feedback 
+-4.209 collaborative 
+-4.2718 towards 
+-4.279 multi 
+-4.2936 study 
+-4.331 page 
+-4.362 collection 
+-4.394 robot 
+-4.4104 question 
+-4.4187 result 
+-4.4271 structured 
+-4.4441 driven 
+-4.4526 mobile 
+-4.4613 knowledge 
+-4.47 topic 
+-4.4788 scale 
+-4.4877 modeling 
+-4.4967 database 
+-4.5058 indexing 
+-4.5241 environment 
+-4.5428 word 
+-4.5428 understanding 
+-4.5618 xml 
+-4.5618 building 
+-4.5813 social 
+-4.6419 similarity 
+-4.6524 management 
+-4.6524 task 
+-4.6524 ranking 
+-4.6629 site 
+-4.6629 searching 
+-4.6954 source 
+-4.7064 cross 
+-4.7064 theoretic 
+-4.7176 integration 
+-4.7289 answering 
+-4.7289 structure 
+-4.7289 ontology 
+-4.7403 domain 
+-4.7403 classification 
+-4.7636 multimedia 
+-4.7754 measure 
+-4.7874 behavior 
+-4.7995 digital 
+-4.7995 summarization 
+-4.8118 visual 
+-4.8242 intelligent 
+-4.8242 extracting 
+-4.8368 improving 
+-4.8368 architecture 
+-4.8368 concept 
+-4.8368 browsing 
+-4.8624 expert 
+-4.8624 integrated 
+-4.8755 automated 
+-4.8887 annotation 
+-4.8887 community 
+-4.9022 link 
+-4.9022 quality 
+-4.9158 abstract 
+-4.9158 clustering 
+-4.9296 interaction 
+-4.9296 generating 
+-4.9436 strategy 
+-4.9721 log 
+-4.9721 development 
+-4.9867 framework 
+-4.9867 tool 
+-4.9867 world 
+-5.0015 personalized 
+-5.0015 access 
+-5.0015 evaluating 
+-5.0166 video 
+-5.0318 keyword 
+-5.0318 corpus 
+-5.0473 uncertainty 
+-5.0631 effective 
+-5.0631 adaptive 
+-5.0791 online 
+-5.0954 network 
+-5.0954 dynamic 
+-5.1119 probabilistic 
+-5.1119 news 
+-5.1119 performance 
+-5.1119 modelling 
+-5.1119 technology 
+-5.1458 recommendation 
+-5.1458 music 
+-5.1632 schema 
+-5.1632 library 
+-5.1632 discovery 
+-5.2172 internet 
+-5.2172 experiment 
+-5.2172 platform 
+-5.2172 method 
+-5.255 sentence 
+-5.255 support 
+-5.255 grammar 
+-5.2744 cooperative 
+-5.2744 personal 
+-5.2744 parsing 
+-5.2744 specific 
+-5.2744 level 
+-5.2744 challenge 
+-5.2942 navigation 
+-5.2942 planning 
+-5.3144 exploration 
+-5.3144 cluster 
+-5.3144 latent 
+-5.3144 chinese 
+-5.3144 translation 
+-5.3144 research 
+-5.3561 wide 
+-5.3561 answer 
+-5.3561 oriented 
+-5.3776 implicit 
+-5.3776 design 
+-5.3776 independent 
+-5.3776 phrase 
+-5.3996 relationship 
+-5.3996 enterprise 
+-5.422 speech 
+-5.422 multiple 
+-5.422 relevant 
+-5.422 electronic 
+-5.445 summary 
+-5.4686 location 
+-5.4686 profile 
+-5.4686 interpretation 
+-5.4686 improve 
+-5.4686 matching 
+-5.4686 demonstration 
+-5.4927 cognitive 
+-5.4927 test 
+-5.4927 prediction 
+-5.4927 commerce 
+-5.4927 acquisition 
+-5.5174 semantics 
+-5.5174 software 
+-5.5174 visualization 
+-5.5427 effectiveness 
+-5.5427 statistical 
+-5.5686 supporting 
+-5.5686 email 
+-5.5686 self 
+-5.5686 resource 
+-5.5686 game 
+-5.5686 comparative 
+-5.5953 communication 
+-5.5953 session 
+-5.6227 project 
+-5.6227 human 
+-5.6227 hypertext 
+-5.6227 conceptual 
+-5.6227 english 
+-5.6227 syntactic 
+-5.6227 impact 
+-5.6227 exploiting 
+-5.6227 mapping 
+-5.6227 integrating 
+-5.6509 contextual 
+-5.6509 precision 
+-5.6509 linguistic 
+-5.6509 automatically 
+-5.7097 response 
+-5.7097 personalization 
+-5.7097 business 
+-5.7097 effect 
+-5.7097 aware 
+-5.7097 graphical 
+-5.7097 role 
+-5.7097 detecting 
+-5.7097 composition 
+-5.7097 device 
+-5.7097 enhancing 
+-5.7097 medical 
+-5.7097 scalable 
+-5.7405 experimental 
+-5.7405 exploring 
+-5.7405 computer 
+-5.7405 hierarchy 
+-5.7405 process 
+-5.7405 panel 
+-5.7405 detection 
+-5.7722 map 
+-5.7722 dialogue 
+-5.7722 wikipedia 
+-5.805 proximity 
+-5.805 sensitive 
+-5.805 poster 
+-5.805 distributed 
+-5.805 multilingual 
+-5.805 sharing 
+-5.8389 enabling 
+-5.8389 textual 
+-5.8389 opinion 
+-5.8389 example 
+-5.8389 preference 
+-5.8389 virtual 
+-5.874 finding 
+-5.874 workshop 
+-5.874 product 
+-5.874 organizing 
+-5.874 construction 
+-5.874 generic 
+-5.9104 designing 
+-5.9104 segmentation 
+-5.9104 dictionary 
+-5.9104 caching 
+-5.9104 vision 
+-5.9104 tracking 
+-5.9104 privacy 
+-5.9104 tag 
+-5.9481 attack 
+-5.9481 organization 
+-5.9481 focused 
+-5.9481 expertise 
+-5.9481 rule 
+-5.9481 measuring 
+-5.9481 crawling 
+-5.9481 hoc 
+-5.9874 advanced 
+-5.9874 recommender 
+-5.9874 metadata 
+-5.9874 evolution 
+-5.9874 event 
+-5.9874 comparison 
+-5.9874 office 
+-5.9874 memory 
+-5.9874 novel 
+-5.9874 passage 
+-6.0282 click 
+-6.0282 beyond 
+-6.0282 unstructured 
+-6.0282 industrial 
+-6.0282 interestingness 
+-6.0282 identification 
+-6.0282 past 
+-6.0282 browser 
+-6.0282 record 
+-6.0282 help 
+-6.0282 workflow 
+-6.0707 people 
+-6.0707 portal 
+-6.0707 deep 
+-6.0707 server 
+-6.0707 remote 
+-6.0707 vocabulary 
+-6.0707 type 
+-6.0707 coordination 
+-6.0707 meaning 
+-6.0707 future 
+-6.0707 flexible 
+-6.1152 archive 
+-6.1152 taxonomy 
+-6.1152 developing 
+-6.1152 usage 
+-6.1152 overview 
+-6.1152 refinement 
+-6.1152 judgment 
+-6.1152 reactive 
+-6.1152 via 
+-6.1152 systematic 
+-6.1152 identifying 
+-6.1152 medium 
+-6.1152 infrastructure 
+-6.1617 rapid 
+-6.1617 frequency 
+-6.1617 capturing 
+-6.1617 www 
+-6.1617 enhanced 
+-6.1617 retrieving 
+-6.1617 biomedical 
+-6.1617 profiling 
+-6.1617 table 
+-6.1617 prototype 
+-6.2105 block 
+-6.2105 pseudo 
+-6.2105 disambiguation 
+-6.2105 story 
+-6.2105 complex 
+-6.2105 website 
+-6.2105 category 
+-6.2105 presentation 
+-6.2105 assistant 
+-6.2105 intensive 
+-6.2105 assessment 
+-6.2105 visualizing 
+-6.2105 spam 
+-6.2105 scoring 
+-6.2105 dependent 

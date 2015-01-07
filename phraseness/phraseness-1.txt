@@ -1,0 +1,561 @@
+7.6315 classification support machine vector 
+7.1367 using support machine vector 
+6.57 support machine vector 
+6.15 decision process markov 
+5.731 model hidden markov 
+5.2047 closure transitive 
+4.9875 named entity 
+4.9613 clustering semi supervised 
+4.8841 component principal 
+4.724 matrix factorization 
+4.7046 learning semi supervised 
+4.4931 bayes naive 
+4.3184 learning instance multiple 
+4.283 classification support vector 
+4.189 cost sensitive 
+4.1338 regression logistic 
+4.1042 neighbor nearest 
+3.9192 classification support machine 
+3.8342 classification machine vector 
+3.7959 process gaussian 
+3.7373 using support vector 
+3.627 using network neural 
+3.5547 semi supervised 
+3.5486 feature selection text 
+3.3839 using machine vector 
+3.3757 using support machine 
+3.3648 support vector 
+3.3325 hidden markov 
+3.2489 learning support vector 
+3.0692 learning network bayesian 
+3.0355 analysis discriminant 
+3.0067 text categorization 
+2.9217 network social 
+2.8399 machine vector 
+2.8398 decision tree 
+2.8261 support machine 
+2.8026 network neural 
+2.778 analysis component 
+2.7255 based feature selection 
+2.6482 process markov 
+2.5869 classifier naive 
+2.5742 instance multiple 
+2.422 classification using text 
+2.3989 space vector 
+2.2362 image segmentation 
+2.2042 decision process 
+2.1943 classifier bayes 
+2.1215 decision markov 
+2.0805 object recognition 
+2.0633 network bayesian 
+2.0597 feature selection 
+2.0493 model latent 
+1.9354 recognition pattern 
+1.9174 clustering document 
+1.8252 model mixture 
+1.7924 classification text 
+1.7869 model hidden 
+1.7776 clustering spectral 
+1.7768 combining multiple 
+1.7479 multi class 
+1.6268 feature extraction 
+1.5253 clustering hierarchical 
+1.51 model markov 
+1.477 classifier bayesian 
+1.4513 structure network 
+1.2248 learning active 
+1.2128 clustering supervised 
+1.2114 model probabilistic 
+1.1761 based instance 
+1.1731 classification document 
+1.1664 learning example 
+1.1578 learning instance 
+1.0836 learning supervised 
+1.0125 network markov 
+1.0011 clustering semi 
+0.9377 learning task 
+0.933 text classifier 
+0.924 feature text 
+0.915 model linear 
+0.8661 learning machine 
+0.8222 learning rule 
+0.8139 clustering data 
+0.8109 model prediction 
+0.8092 classification hierarchical 
+0.7869 using object 
+0.7862 method based 
+0.7772 using detection 
+0.7734 learning semi 
+0.7734 learning unsupervised 
+0.7644 classification class 
+0.7313 classification supervised 
+0.7261 based detection 
+0.7246 learning function 
+0.7146 learning sensitive 
+0.7134 via clustering 
+0.7015 selection text 
+0.7015 model process 
+0.6921 classification data 
+0.6774 model estimation 
+0.674 using document 
+0.6666 using improving 
+0.6645 feature image 
+0.6645 using neural 
+0.6577 using prediction 
+0.6497 classification support 
+0.6484 based clustering 
+0.6425 using estimation 
+0.6339 clustering algorithm 
+0.625 learning adaptive 
+0.6218 using recognition 
+0.6094 classification feature 
+0.5934 based approach 
+0.59 based image 
+0.59 based segmentation 
+0.579 based model 
+0.5727 classification vector 
+0.5691 based algorithm 
+0.5615 algorithm selection 
+0.5577 based feature 
+0.5506 using image 
+0.5322 model hierarchical 
+0.5275 using text 
+0.5271 learning bayesian 
+0.5081 classification kernel 
+0.5075 model multiple 
+0.5063 learning multiple 
+0.4936 clustering approach 
+0.4891 classification multi 
+0.4786 classification machine 
+0.4768 learning online 
+0.4553 based selection 
+0.4476 object model 
+0.4454 based data 
+0.4392 learning cost 
+0.4295 model selection 
+0.4274 model data 
+0.4256 algorithm network 
+0.4237 based structure 
+0.4187 method classification 
+0.4137 using network 
+0.4032 learning multi 
+0.4023 learning via 
+0.3975 classification using 
+0.3944 based tree 
+0.3889 based recognition 
+0.3881 using segmentation 
+0.3728 model combining 
+0.3679 learning ranking 
+0.3605 based support 
+0.3601 clustering text 
+0.3567 learning algorithm 
+0.3432 based kernel 
+0.3347 using class 
+0.3309 using vector 
+0.3255 method clustering 
+0.309 learning network 
+0.3057 based text 
+0.3001 using model 
+0.2994 using classifier 
+0.2852 based analysis 
+0.2807 using markov 
+0.2804 learning markov 
+0.2801 learning local 
+0.2739 based network 
+0.2698 using probabilistic 
+0.2652 classification image 
+0.2626 learning framework 
+0.248 learning data 
+0.2468 based hierarchical 
+0.2458 classification approach 
+0.2458 classification based 
+0.2237 model image 
+0.2124 using active 
+0.2081 using support 
+0.207 learning comparison 
+0.1969 learning approach 
+0.1949 learning training 
+0.182 using multiple 
+0.179 using data 
+0.173 using structure 
+0.1616 using decision 
+0.1586 using tree 
+0.1526 learning kernel 
+0.1523 model bayesian 
+0.1509 using machine 
+0.1428 learning structure 
+0.1199 using clustering 
+0.1138 using hierarchical 
+0.1067 using multi 
+0.1043 learning process 
+0.1009 model text 
+0.098 using bayesian 
+0.091 based using 
+0.0691 model clustering 
+0.0659 model recognition 
+0.0645 learning neural 
+0.0612 based classifier 
+0.0582 method using 
+0.0548 using algorithm 
+0.0536 learning tree 
+0.047 based bayesian 
+0.0447 learning based 
+0.0377 using feature 
+0.0355 model tree 
+0.0165 learning decision 
+-0.0411 using kernel 
+-0.0533 model approach 
+-0.0573 learning combining 
+-0.0622 method learning 
+-0.0651 using analysis 
+-0.0824 model analysis 
+-0.0909 learning class 
+-0.0941 learning using 
+-0.1043 classification selection 
+-0.1125 using approach 
+-0.1495 learning object 
+-0.1632 learning model 
+-0.1892 model algorithm 
+-0.1985 learning hierarchical 
+-0.2449 learning text 
+-0.2498 learning support 
+-0.2598 classification model 
+-0.2681 learning image 
+-0.3201 learning classification 
+-0.3288 learning classifier 
+-0.348 learning feature 
+-0.3551 learning probabilistic 
+-0.366 learning vector 
+-0.4105 model network 
+-0.4138 learning analysis 
+-0.4713 using selection 
+-0.5023 model feature 
+-0.5731 learning selection 
+-0.8387 learning recognition 
+-1.1111 learning clustering 
+-1.872 learning 
+-2.2207 using 
+-2.4691 model 
+-2.6049 based 
+-2.8107 classification 
+-2.9869 feature 
+-3.016 clustering 
+-3.0395 network 
+-3.2476 recognition 
+-3.2664 selection 
+-3.3512 method 
+-3.4278 algorithm 
+-3.4439 machine 
+-3.4768 text 
+-3.4768 approach 
+-3.4902 analysis 
+-3.5282 bayesian 
+-3.5424 classifier 
+-3.5975 multi 
+-3.6359 image 
+-3.6841 decision 
+-3.6966 kernel 
+-3.7479 tree 
+-3.7611 vector 
+-3.7745 hierarchical 
+-3.7973 support 
+-3.8397 data 
+-3.8591 probabilistic 
+-3.8789 via 
+-3.9197 multiple 
+-3.9515 structure 
+-3.9898 combining 
+-3.9954 class 
+-4.0067 supervised 
+-4.0592 markov 
+-4.0713 semi 
+-4.1599 object 
+-4.1666 segmentation 
+-4.1733 active 
+-4.2074 detection 
+-4.2284 nearest 
+-4.2572 neighbor 
+-4.2645 boosting 
+-4.2719 robust 
+-4.3252 neural 
+-4.3409 estimation 
+-4.3409 function 
+-4.3569 regression 
+-4.365 improving 
+-4.365 process 
+-4.365 linear 
+-4.3814 variable 
+-4.3897 categorization 
+-4.4498 online 
+-4.4498 extraction 
+-4.4498 dynamic 
+-4.4498 local 
+-4.4677 comparison 
+-4.4858 ensemble 
+-4.4951 document 
+-4.4951 ranking 
+-4.5044 training 
+-4.5232 framework 
+-4.5232 unsupervised 
+-4.5232 prediction 
+-4.5821 mixture 
+-4.5922 inference 
+-4.6128 instance 
+-4.6233 automatic 
+-4.6554 tracking 
+-4.6554 visual 
+-4.6663 hidden 
+-4.6999 cost 
+-4.7113 adaptive 
+-4.7228 representation 
+-4.7345 sequence 
+-4.7345 attribute 
+-4.7705 hybrid 
+-4.7705 space 
+-4.7827 example 
+-4.7952 rule 
+-4.8077 performance 
+-4.8077 structured 
+-4.8077 probability 
+-4.8077 error 
+-4.8205 pattern 
+-4.8334 bayes 
+-4.8334 identification 
+-4.8465 distribution 
+-4.8465 empirical 
+-4.9145 motion 
+-4.9287 sensitive 
+-4.9287 continuous 
+-4.9287 study 
+-4.9431 spectral 
+-4.9431 vision 
+-4.9431 induction 
+-4.9577 strategy 
+-4.9577 statistical 
+-4.9875 human 
+-5.0183 generalized 
+-5.0183 line 
+-5.0341 structural 
+-5.0501 protein 
+-5.0829 application 
+-5.0829 discriminative 
+-5.0997 fast 
+-5.1341 predicting 
+-5.1341 efficient 
+-5.1518 task 
+-5.1518 generalization 
+-5.1699 entity 
+-5.2069 relational 
+-5.2069 gaussian 
+-5.2069 scale 
+-5.2069 component 
+-5.226 naive 
+-5.226 discriminant 
+-5.226 conditional 
+-5.226 auction 
+-5.2454 parameter 
+-5.2454 value 
+-5.2652 accuracy 
+-5.2652 scene 
+-5.2652 weighting 
+-5.2652 invariant 
+-5.2854 color 
+-5.2854 incremental 
+-5.2854 evidence 
+-5.2854 density 
+-5.2854 evaluation 
+-5.306 contour 
+-5.306 prior 
+-5.306 robot 
+-5.306 technique 
+-5.3486 svm 
+-5.3486 noise 
+-5.3705 combination 
+-5.3705 set 
+-5.3705 video 
+-5.3705 margin 
+-5.3705 activity 
+-5.3705 partial 
+-5.3705 knowledge 
+-5.393 manifold 
+-5.393 speech 
+-5.393 factorization 
+-5.416 closure 
+-5.416 nonlinear 
+-5.416 distance 
+-5.4395 transitive 
+-5.4395 region 
+-5.4395 estimating 
+-5.4395 criterion 
+-5.4636 matrix 
+-5.4636 interaction 
+-5.4636 field 
+-5.4636 causal 
+-5.5136 aggregation 
+-5.5136 dimensional 
+-5.5136 plan 
+-5.5136 low 
+-5.5136 theory 
+-5.5396 curve 
+-5.5396 localization 
+-5.5396 single 
+-5.5396 symbolic 
+-5.5396 novel 
+-5.5663 label 
+-5.5663 optimization 
+-5.5663 surface 
+-5.5663 explanation 
+-5.5663 level 
+-5.5663 discovery 
+-5.5663 resolution 
+-5.5937 relation 
+-5.5937 bias 
+-5.5937 rank 
+-5.5937 frame 
+-5.5937 labeling 
+-5.6218 subspace 
+-5.6218 discretization 
+-5.6218 diagram 
+-5.6218 latent 
+-5.6218 sample 
+-5.6218 projection 
+-5.6218 improve 
+-5.6218 matching 
+-5.6218 output 
+-5.6218 stochastic 
+-5.6508 unlabeled 
+-5.6508 simple 
+-5.6807 solution 
+-5.6807 alignment 
+-5.6807 reconstruction 
+-5.6807 view 
+-5.6807 texture 
+-5.6807 noisy 
+-5.6807 subset 
+-5.6807 mean 
+-5.6807 gradient 
+-5.6807 code 
+-5.6807 regularization 
+-5.7115 signal 
+-5.7115 transformation 
+-5.7115 complex 
+-5.7115 dual 
+-5.7115 boundary 
+-5.7115 generative 
+-5.7115 efficiency 
+-5.7432 filter 
+-5.7432 topic 
+-5.7432 sampling 
+-5.7432 pose 
+-5.7432 geometry 
+-5.7432 domain 
+-5.7432 joint 
+-5.7432 evolutionary 
+-5.7432 labeled 
+-5.776 link 
+-5.776 effective 
+-5.776 behavior 
+-5.776 event 
+-5.776 named 
+-5.776 global 
+-5.776 failure 
+-5.776 construction 
+-5.776 positive 
+-5.776 correlation 
+-5.8099 principal 
+-5.8099 illumination 
+-5.8099 simultaneous 
+-5.8099 finite 
+-5.8099 weighted 
+-5.8099 parametric 
+-5.8099 appearance 
+-5.845 reading 
+-5.845 combinatorial 
+-5.845 iterative 
+-5.845 learner 
+-5.845 selective 
+-5.845 negative 
+-5.845 action 
+-5.8814 perception 
+-5.8814 dependency 
+-5.8814 interpretation 
+-5.8814 predictive 
+-5.8814 social 
+-5.8814 independence 
+-5.8814 type 
+-5.8814 rate 
+-5.8814 dirichlet 
+-5.9191 incorporating 
+-5.9191 analyzing 
+-5.9191 exploiting 
+-5.9191 preference 
+-5.9191 classifying 
+-5.9191 voting 
+-5.9583 edge 
+-5.9583 logistic 
+-5.9583 category 
+-5.9583 pairwise 
+-5.9583 collection 
+-5.9583 mixed 
+-5.9583 record 
+-5.9583 multiclass 
+-5.9991 risk 
+-5.9991 discrimination 
+-5.9991 effect 
+-5.9991 self 
+-5.9991 lexical 
+-5.9991 svms 
+-6.0417 roc 
+-6.0417 unified 
+-6.0417 accurate 
+-6.0417 soft 
+-6.0417 lazy 
+-6.0417 constrained 
+-6.0417 test 
+-6.0417 valued 
+-6.0417 influence 
+-6.0417 decomposition 
+-6.0417 sequential 
+-6.0417 tensor 
+-6.0417 evaluating 
+-6.0862 binary 
+-6.0862 interactive 
+-6.0862 cluster 
+-6.0862 rare 
+-6.0862 bagging 
+-6.0862 sketch 
+-6.0862 pair 
+-6.0862 detecting 
+-6.0862 pruning 
+-6.0862 sensor 
+-6.0862 gesture 
+-6.1327 weak 
+-6.1327 relative 
+-6.1327 topological 
+-6.1327 bottom 
+-6.1327 utility 
+-6.1327 refinement 
+-6.1327 collective 
+-6.1327 partially 
+-6.1327 limited 
+-6.1327 estimate 
+-6.1327 building 
+-6.1327 counting 
+-6.1815 coding 
+-6.1815 direct 
+-6.1815 robustness 
+-6.1815 transductive 
+-6.1815 computational 
+-6.1815 objective 
+-6.1815 imbalanced 
+-6.1815 randomized 
+-6.1815 batch 
+-6.1815 regularized 
+-6.1815 meta 
+-6.1815 linkage 
+-6.1815 minimization 
+-6.1815 generation 
+-6.1815 compound 
+-6.1815 mapping 
+-6.1815 learn 
+-6.1815 varying 

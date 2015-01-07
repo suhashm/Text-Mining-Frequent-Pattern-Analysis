@@ -1,0 +1,544 @@
+0.1282 data 
+0.1158 mining 
+0.1082 algorithm 
+0.0717 graph 
+0.0557 time 
+0.0526 pattern 
+0.0507 tree 
+0.0486 efficient 
+0.0414 rule 
+0.0411 mining data 
+0.0372 search 
+0.0334 association 
+0.0326 using 
+0.0319 clustering 
+0.0303 approximation 
+0.029 based 
+0.0289 set 
+0.0278 optimal 
+0.0252 fast 
+0.0241 dimensional 
+0.0232 rule association 
+0.0229 random 
+0.0226 finding 
+0.0226 frequent 
+0.0226 space 
+0.0221 detection 
+0.021 stream 
+0.0208 series 
+0.0203 similarity 
+0.0202 mining pattern 
+0.0201 path 
+0.0193 time series 
+0.0181 bound 
+0.018 analysis 
+0.0174 matching 
+0.0169 approximate 
+0.016 metric 
+0.0158 rule mining 
+0.0158 mining association 
+0.0156 dynamic 
+0.0152 application 
+0.0148 discovering 
+0.0144 reduction 
+0.0141 method 
+0.014 indexing 
+0.014 data stream 
+0.0139 linear 
+0.0137 sequence 
+0.0134 preserving 
+0.0133 distance 
+0.0127 privacy 
+0.0126 mining frequent 
+0.0124 improved 
+0.0122 rule mining association 
+0.0122 via 
+0.0121 cluster 
+0.0121 local 
+0.0119 discovery 
+0.0117 maximum 
+0.0116 minimum 
+0.0116 technique 
+0.0115 algorithm approximation 
+0.0114 sequential 
+0.0112 computing 
+0.0112 decision 
+0.0107 clustering data 
+0.0106 algorithm efficient 
+0.0106 constraint 
+0.0106 expression 
+0.0102 sampling 
+0.0102 polynomial 
+0.0102 temporal 
+0.0097 computation 
+0.0093 value 
+0.0092 sparse 
+0.0092 database 
+0.009 matrix 
+0.009 dimension 
+0.0089 structure 
+0.0088 algorithm mining 
+0.0087 algorithm data 
+0.0087 data set 
+0.0087 scheme 
+0.0086 map 
+0.0086 weighted 
+0.0086 planar 
+0.0086 dimensional data 
+0.0085 function 
+0.0085 datasets 
+0.0083 flow 
+0.0083 attribute 
+0.0083 spatial 
+0.008 estimation 
+0.0077 frequent pattern 
+0.0077 dimensionality 
+0.0076 algorithm graph 
+0.0076 simple 
+0.0075 outlier 
+0.0075 genetic 
+0.0074 online 
+0.0074 decision tree 
+0.0073 based data 
+0.0073 measure 
+0.0073 line 
+0.007 privacy preserving 
+0.007 time data 
+0.007 extended 
+0.0069 generalized 
+0.0069 edge 
+0.0069 free 
+0.0069 data efficient 
+0.0069 mining efficient 
+0.0068 closed 
+0.0066 geometric 
+0.0066 abstract 
+0.0066 correlation 
+0.0066 approximating 
+0.0066 heuristic 
+0.0065 data pattern 
+0.0065 string 
+0.0065 using data 
+0.0064 algorithm time 
+0.0064 bounded 
+0.0064 representation 
+0.0063 lower 
+0.0063 partitioning 
+0.0063 field 
+0.0063 incremental 
+0.0063 searching 
+0.0063 data privacy 
+0.0062 itemsets 
+0.0062 complexity 
+0.0061 binary 
+0.0061 length 
+0.0061 entropy 
+0.0061 parallel 
+0.006 construction 
+0.006 induction 
+0.006 error 
+0.0059 algorithm fast 
+0.0059 near 
+0.0059 massive 
+0.0058 event 
+0.0057 compression 
+0.0057 testing 
+0.0057 mining graph 
+0.0057 multi 
+0.0057 decomposition 
+0.0057 partial 
+0.0057 bound lower 
+0.0056 dimensionality reduction 
+0.0056 efficiently 
+0.0056 gene 
+0.0056 directed 
+0.0055 classification 
+0.0054 clustering algorithm 
+0.0054 based mining 
+0.0054 based algorithm 
+0.0054 tree algorithm 
+0.0054 algorithm optimal 
+0.0054 sequential pattern 
+0.0054 using mining 
+0.0053 convex 
+0.0053 minimal 
+0.0053 sense 
+0.0052 solution 
+0.0052 subspace 
+0.0052 tree data 
+0.0052 search similarity 
+0.0052 analysis data 
+0.0052 structured 
+0.0052 detecting 
+0.0051 tree search 
+0.0051 mining stream 
+0.0051 pruning 
+0.0051 statistical 
+0.005 distribution 
+0.005 independent 
+0.0049 rule algorithm 
+0.0049 mining frequent pattern 
+0.0049 extended abstract 
+0.0048 location 
+0.0048 rule data 
+0.0048 data series 
+0.0048 time data series 
+0.0048 programming 
+0.0048 cube 
+0.0047 item 
+0.0047 time mining 
+0.0047 framework 
+0.0047 sequential mining 
+0.0047 statistic 
+0.0047 connectivity 
+0.0047 shape 
+0.0046 cut 
+0.0046 scale 
+0.0046 multiple 
+0.0046 change 
+0.0046 mining set 
+0.0046 shortest 
+0.0046 data preserving 
+0.0046 cost 
+0.0045 max 
+0.0045 frequent itemsets 
+0.0045 categorical 
+0.0045 combinatorial 
+0.0045 sat 
+0.0045 generation 
+0.0045 algorithm improved 
+0.0044 partition 
+0.0044 maximal 
+0.0044 anomaly 
+0.0044 towards 
+0.0044 network 
+0.0044 constrained 
+0.0044 discrete 
+0.0043 randomized 
+0.0043 based clustering 
+0.0043 generating 
+0.0043 itemset 
+0.0042 application data 
+0.0042 sequential mining pattern 
+0.0042 walk 
+0.0041 tree pattern 
+0.0041 average 
+0.0041 algorithm genetic 
+0.0041 packing 
+0.0041 hierarchical 
+0.0041 efficient pattern 
+0.004 subsequence 
+0.004 spanning 
+0.004 interval 
+0.004 random graph 
+0.004 path shortest 
+0.004 tree mining 
+0.004 projection 
+0.004 visualization 
+0.004 using algorithm 
+0.0039 duplicate 
+0.0039 mining privacy 
+0.0039 algorithm search 
+0.0039 time polynomial 
+0.0039 faster 
+0.0039 mining closed 
+0.0039 deterministic 
+0.0039 space dimensional 
+0.0039 fuzzy 
+0.0039 time linear 
+0.0039 biological 
+0.0038 gene expression 
+0.0038 data frequent 
+0.0038 modeling 
+0.0038 study 
+0.0038 coloring 
+0.0038 counting 
+0.0037 regular 
+0.0037 scaling 
+0.0037 effective 
+0.0037 index 
+0.0037 histogram 
+0.0037 data association 
+0.0037 graph path 
+0.0037 depth 
+0.0037 top 
+0.0037 data privacy preserving 
+0.0037 density 
+0.0036 regression 
+0.0036 mining data stream 
+0.0036 transition 
+0.0036 constant 
+0.0036 greedy 
+0.0036 database mining 
+0.0036 time pattern 
+0.0036 spatio 
+0.0036 scalable 
+0.0036 degree 
+0.0035 data technique 
+0.0035 time graph 
+0.0035 data cluster 
+0.0035 search local 
+0.0035 graph planar 
+0.0035 product 
+0.0035 space search 
+0.0035 discovery pattern 
+0.0035 phase 
+0.0035 search efficient 
+0.0035 similar 
+0.0035 result 
+0.0035 embedding 
+0.0034 algorithm finding 
+0.0034 algorithm association 
+0.0034 complete 
+0.0034 window 
+0.0034 labeling 
+0.0033 algorithm set 
+0.0033 detection data 
+0.0033 tree efficient 
+0.0033 log 
+0.0033 data graph 
+0.0033 compact 
+0.0033 exact 
+0.0033 mining itemsets 
+0.0033 random walk 
+0.0033 matching pattern 
+0.0032 lattice 
+0.0032 word 
+0.0032 dense 
+0.0032 based time 
+0.0032 evolving 
+0.0032 sum 
+0.0032 matching algorithm 
+0.0032 steiner 
+0.0032 evolutionary 
+0.0032 triangulation 
+0.0032 data expression 
+0.0032 connected 
+0.0032 wavelet 
+0.0032 subgraphs 
+0.0031 using rule 
+0.0031 hashing 
+0.0031 trajectory 
+0.0031 neighborhood 
+0.0031 application mining 
+0.0031 data fast 
+0.0031 match 
+0.0031 self 
+0.0031 rank 
+0.0031 mining sequence 
+0.0031 algorithm linear 
+0.0031 covering 
+0.0031 data gene 
+0.0031 multivariate 
+0.003 data finding 
+0.003 data similarity 
+0.003 minimizing 
+0.003 synopsis 
+0.003 rule algorithm association 
+0.003 mining data pattern 
+0.0029 multidimensional 
+0.0029 semistructured 
+0.0029 algorithm path 
+0.0029 comparing 
+0.0029 disambiguation 
+0.0029 space efficient 
+0.0029 algorithm maximum 
+0.0029 spatio temporal 
+0.0029 routing 
+0.0029 mining data privacy 
+0.0029 power 
+0.0029 customer 
+0.0029 node 
+0.0029 concept 
+0.0028 discovery rule 
+0.0028 numerical 
+0.0028 heuristic search 
+0.0028 exploring 
+0.0028 time search 
+0.0028 text 
+0.0028 accurate 
+0.0028 noisy 
+0.0028 iteration 
+0.0028 multi dimensional 
+0.0028 test 
+0.0028 cover 
+0.0028 bipartite 
+0.0028 perfect 
+0.0028 property 
+0.0028 support 
+0.0028 sorting 
+0.0028 selectivity 
+0.0028 tree optimal 
+0.0027 frequent efficient 
+0.0027 data gene expression 
+0.0027 constraint mining 
+0.0027 correlated 
+0.0027 mining technique 
+0.0027 matching time 
+0.0027 algorithm mining data 
+0.0027 adaptive 
+0.0027 algorithm minimum 
+0.0027 expected 
+0.0027 detection outlier 
+0.0027 vertex 
+0.0027 pattern discovering 
+0.0027 discovery data 
+0.0027 detection anomaly 
+0.0026 spatial data 
+0.0026 mining preserving 
+0.0026 relative 
+0.0026 mining temporal 
+0.0026 graph pattern 
+0.0026 mining itemset 
+0.0026 tree spanning 
+0.0026 tree graph 
+0.0026 data indexing 
+0.0026 random field 
+0.0026 data massive 
+0.0026 mean 
+0.0026 improved approximation 
+0.0026 mining fast 
+0.0026 region 
+0.0026 algorithm pattern 
+0.0026 based pattern 
+0.0026 tight 
+0.0026 mining series 
+0.0026 mining frequent itemsets 
+0.0026 time mining series 
+0.0026 structured data 
+0.0026 core 
+0.0025 rule efficient 
+0.0025 pattern series 
+0.0025 warping 
+0.0025 generator 
+0.0025 graph directed 
+0.0025 time pattern series 
+0.0025 disjoint 
+0.0025 dimensional clustering 
+0.0025 market 
+0.0025 fixed 
+0.0025 application mining data 
+0.0025 euclidean 
+0.0025 using pattern 
+0.0025 arbitrary 
+0.0025 space algorithm 
+0.0025 constructing 
+0.0025 clustering efficient 
+0.0025 intrusion 
+0.0025 data cube 
+0.0025 frequent closed 
+0.0024 time similarity 
+0.0024 method data 
+0.0024 structure data 
+0.0024 data categorical 
+0.0024 grid 
+0.0024 cleaning 
+0.0024 utility 
+0.0024 data discovering 
+0.0024 stable 
+0.0024 oblivious 
+0.0024 space metric 
+0.0024 based detection 
+0.0024 search fast 
+0.0024 space time 
+0.0024 efficient computation 
+0.0024 policy 
+0.0024 entropy maximum 
+0.0024 ratio 
+0.0024 recognizing 
+0.0024 maintaining 
+0.0024 using association 
+0.0024 mining privacy preserving 
+0.0024 clustering graph 
+0.0024 robust 
+0.0024 factor 
+0.0024 rule data association 
+0.0024 estimating 
+0.0023 direct 
+0.0023 data subspace 
+0.0023 frequent stream 
+0.0023 based graph 
+0.0023 mining gene 
+0.0023 dictionary 
+0.0023 quality 
+0.0023 based series 
+0.0023 algorithm polynomial 
+0.0023 algorithm simple 
+0.0023 using rule association 
+0.0023 symmetric 
+0.0023 emerging 
+0.0023 based rule 
+0.0023 list 
+0.0023 suffix 
+0.0023 trend 
+0.0023 optimizing 
+0.0023 graph efficient 
+0.0023 inference 
+0.0023 likelihood 
+0.0023 subgraph 
+0.0023 graph fast 
+0.0023 exploiting 
+0.0023 square 
+0.0023 time mining data 
+0.0023 analysis algorithm 
+0.0023 locality 
+0.0023 generalization 
+0.0023 numeric 
+0.0023 pagerank 
+0.0022 clique 
+0.0022 algorithm randomized 
+0.0022 time efficient 
+0.0022 deletion 
+0.0022 dimensional algorithm 
+0.0022 using tree 
+0.0022 algorithm frequent 
+0.0022 algorithm combinatorial 
+0.0022 mining data frequent 
+0.0022 embeddings 
+0.0022 algorithm faster 
+0.0022 cross 
+0.0022 based time series 
+0.0022 sense disambiguation 
+0.0022 streaming 
+0.0022 based tree 
+0.0022 prediction 
+0.0022 similarity series 
+0.0022 pair 
+0.0022 time similarity series 
+0.0022 tree induction 
+0.0022 detection duplicate 
+0.0022 optimal near 
+0.0022 related 
+0.0022 clustering mining 
+0.0022 efficient set 
+0.0022 weight 
+0.0021 relation 
+0.0021 tree binary 
+0.0021 symmetry 
+0.0021 clustering time 
+0.0021 search optimal 
+0.0021 algorithm parallel 
+0.0021 algorithm extended 
+0.0021 dimension reduction 
+0.0021 dependency 
+0.0021 algorithm incremental 
+0.0021 sample 
+0.0021 algorithm abstract 
+0.0021 space data 
+0.0021 microarray 
+0.0021 dynamic data 
+0.0021 pattern temporal 
+0.0021 compressed 
+0.0021 correspondence 
+0.0021 graph partitioning 
+0.0021 search data 
+0.0021 bound tight 
+0.0021 frequent itemset 
+0.0021 forest 
+0.0021 dynamic tree 
+0.0021 based outlier 
+0.0021 identifying 
+0.0021 solving 
+0.0021 dimensional indexing 
+0.0021 rule set 
+0.0021 chain 

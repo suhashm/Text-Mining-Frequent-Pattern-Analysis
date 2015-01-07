@@ -1,0 +1,588 @@
+0.075428 query 
+0.037165 processing 
+0.02822 distributed 
+0.022288 control 
+0.018585 optimization 
+0.018262 query processing 
+0.017217 xml 
+0.016686 join 
+0.01517 real 
+0.013204 object 
+0.012037 index 
+0.012019 database query 
+0.011891 performance 
+0.011856 parallel 
+0.011611 scheduling 
+0.010094 query optimization 
+0.009804 memory 
+0.009685 file 
+0.009533 view 
+0.00881 real time 
+0.008752 storage 
+0.008402 query data 
+0.007935 sql 
+0.00776 concurrency 
+0.007701 database distributed 
+0.00752 transaction 
+0.007293 system distributed 
+0.007235 query efficient 
+0.007013 access 
+0.007001 recovery 
+0.006418 query xml 
+0.00636 aggregate 
+0.006301 peer 
+0.006243 control concurrency 
+0.005834 system query 
+0.00561 server 
+0.005368 moving 
+0.005134 evaluation query 
+0.005076 disk 
+0.004959 data distributed 
+0.004959 object query 
+0.004901 xml data 
+0.004901 expansion 
+0.004668 processor 
+0.004609 data processing 
+0.004609 range 
+0.004376 stereo 
+0.004376 load 
+0.004259 warehouse 
+0.004201 nested 
+0.004142 query distributed 
+0.004084 processing efficient 
+0.004084 camera 
+0.004026 cache 
+0.003909 database processing 
+0.003851 olap 
+0.003851 locking 
+0.003734 database system distributed 
+0.003695 querying 
+0.003676 database efficient 
+0.003617 query answering 
+0.003617 allocation 
+0.003617 system processing 
+0.003576 optimizing 
+0.003559 distributed processing 
+0.003501 database control 
+0.003501 query expansion 
+0.003442 xpath 
+0.003421 sensor 
+0.003326 database performance 
+0.003326 stream processing 
+0.003267 data warehouse 
+0.003267 xml efficient 
+0.003267 size 
+0.003267 materialized 
+0.003267 query stream 
+0.003267 operation 
+0.003209 query view 
+0.003203 protocol 
+0.003151 external 
+0.003151 query continuous 
+0.003151 xquery 
+0.003116 spatial 
+0.003092 object moving 
+0.002976 materialized view 
+0.002976 shared 
+0.002976 client 
+0.002976 broadcast 
+0.002976 hash 
+0.002917 data access 
+0.002917 replication 
+0.002917 query processing efficient 
+0.002859 evaluation performance 
+0.002859 buffer 
+0.002859 database concurrency 
+0.002819 shape 
+0.002801 replicated 
+0.002684 query join 
+0.002625 system performance 
+0.002625 oracle 
+0.002625 network sensor 
+0.002625 database control concurrency 
+0.002625 signature 
+0.002625 query network 
+0.002567 database spatial 
+0.002553 database object 
+0.002509 system time 
+0.002509 multi query 
+0.002509 db2 
+0.00248 adaptive 
+0.002459 scalable 
+0.00245 database query processing 
+0.00245 wireless 
+0.002425 complex 
+0.002417 using query 
+0.002392 system control 
+0.002392 calibration 
+0.002392 extensible 
+0.002392 balancing 
+0.002334 structure index 
+0.002334 query relational 
+0.002334 uncertain 
+0.002334 placement 
+0.002275 multiprocessor 
+0.002275 data view 
+0.002275 database parallel 
+0.002275 approach query 
+0.002275 rewriting 
+0.002275 query optimizing 
+0.002217 handling 
+0.002217 query aggregate 
+0.002217 highly 
+0.002159 xml processing 
+0.002159 query top 
+0.002159 main 
+0.002159 query adaptive 
+0.002159 processing join 
+0.002159 query data processing 
+0.0021 control access 
+0.0021 database optimization 
+0.0021 database evaluation 
+0.0021 query sql 
+0.0021 traffic 
+0.0021 fusion 
+0.0021 algorithm join 
+0.002087 self 
+0.002042 database transaction 
+0.002042 time query 
+0.002042 database xml 
+0.002042 database time 
+0.002042 database memory 
+0.002042 array 
+0.002042 query complex 
+0.002042 query index 
+0.002042 object complex 
+0.002042 query oriented 
+0.002042 manager 
+0.002042 using processing 
+0.002042 memory main 
+0.002042 query distributed processing 
+0.002036 caching 
+0.001984 parallel processing 
+0.001984 dynamic query 
+0.001984 network distributed 
+0.001984 environment data 
+0.001984 warehousing 
+0.001984 querying data 
+0.00197 execution 
+0.001925 query range 
+0.001925 database system query 
+0.001925 workload 
+0.001925 secure 
+0.001925 network data 
+0.001925 query parallel 
+0.001925 object data 
+0.001867 system real 
+0.001867 presence 
+0.001867 network peer 
+0.001867 tuning 
+0.001867 spatial query 
+0.001867 optimizer 
+0.001867 processing transaction 
+0.001867 system parallel 
+0.001809 system file 
+0.001809 control distributed 
+0.001809 data storage 
+0.001809 query recursive 
+0.001809 database access 
+0.001809 execution query 
+0.001809 energy 
+0.001809 database system oriented 
+0.001809 p2p 
+0.001809 conjunctive 
+0.001809 availability 
+0.001809 query performance 
+0.001809 system transaction 
+0.001809 management distributed 
+0.001797 evaluation 
+0.001794 database system 
+0.00175 database object system oriented 
+0.00175 system query processing 
+0.00175 performance distributed 
+0.00175 database index 
+0.00175 spatial join 
+0.00175 containment 
+0.00175 object query oriented 
+0.00175 system real time 
+0.00175 method access 
+0.00175 system xml 
+0.001692 algorithm distributed 
+0.001692 performance data 
+0.001692 join hash 
+0.001692 query technique 
+0.001692 database querying 
+0.001692 query multiple 
+0.001692 query rewriting 
+0.001692 querying xml 
+0.001634 database query optimization 
+0.001634 optical 
+0.001634 evaluation efficient 
+0.001634 algorithm performance 
+0.001634 dynamic system 
+0.001634 database algorithm 
+0.001634 associative 
+0.001634 inverted 
+0.001634 using view 
+0.001634 query data stream 
+0.001631 monitoring 
+0.001613 architecture 
+0.001582 motion 
+0.001575 data source 
+0.001575 algorithm query 
+0.001575 xml relational 
+0.001575 data warehousing 
+0.001575 data parallel 
+0.001575 database object query 
+0.001575 partitioned 
+0.001575 persistent 
+0.001575 database architecture 
+0.001575 federated 
+0.001575 efficient index 
+0.001575 server client 
+0.001575 dissemination 
+0.001575 query access 
+0.001517 multi data 
+0.001517 strategy query 
+0.001517 database supporting 
+0.001517 microsoft 
+0.001517 reliable 
+0.001517 query temporal 
+0.001517 based processing 
+0.001517 based distributed 
+0.001517 query conjunctive 
+0.001517 demand 
+0.001517 server sql 
+0.001517 balancing load 
+0.001459 shading 
+0.001459 database server 
+0.001459 using query processing 
+0.001459 providing 
+0.001459 rdbms 
+0.001459 system efficient 
+0.0014 parallel join 
+0.0014 system memory 
+0.0014 database technique 
+0.0014 adaptive data 
+0.0014 skyline 
+0.0014 database view 
+0.0014 using query view 
+0.0014 cad 
+0.0014 system concurrency 
+0.0014 structure motion 
+0.0014 query approximate 
+0.0014 query supporting 
+0.0014 repository 
+0.0014 measurement 
+0.001342 system adaptive 
+0.001342 system algorithm 
+0.001342 publish subscribe 
+0.001342 distributed optimization 
+0.001342 data join 
+0.001342 read 
+0.001342 progressive 
+0.001342 xml view 
+0.001342 system control concurrency 
+0.001342 database indexing 
+0.001342 semantic query 
+0.001342 query xpath 
+0.001342 result query 
+0.001342 network processing 
+0.001342 data stream processing 
+0.001342 based xml 
+0.001342 subscribe 
+0.001342 publish 
+0.001342 deformable 
+0.001342 query optimizer 
+0.001342 query selection 
+0.001342 object processing 
+0.001342 data continuous 
+0.001342 system stream 
+0.001342 system storage 
+0.00132 routing 
+0.001307 supporting 
+0.001284 data index 
+0.001284 vehicle 
+0.001284 query stream processing 
+0.001284 surveillance 
+0.001284 database network 
+0.001284 exchange 
+0.001284 balanced 
+0.001284 database system performance 
+0.001284 stream distributed 
+0.001284 database system control 
+0.001284 monte carlo 
+0.001284 query framework 
+0.001284 multiversion 
+0.001284 based control 
+0.001284 carlo 
+0.001284 monte 
+0.001284 granularity 
+0.001284 middleware 
+0.001284 parallel shared 
+0.001284 memory data 
+0.001284 data sharing 
+0.001284 cost query 
+0.001225 distributed transaction 
+0.001225 system architecture 
+0.001225 method query 
+0.001225 data aggregate 
+0.001225 composite 
+0.001225 evaluation algorithm 
+0.001225 database storage 
+0.001225 approach processing 
+0.001225 approach distributed 
+0.001225 object tracking 
+0.001225 store 
+0.001225 query sensor 
+0.001225 database real 
+0.001225 consistent 
+0.001225 database multi 
+0.001225 control distributed concurrency 
+0.001225 commit 
+0.001225 overlay 
+0.001225 object relational 
+0.001225 prefetching 
+0.001225 rigid 
+0.001225 determining 
+0.001225 divide 
+0.001225 based object 
+0.001225 distributed concurrency 
+0.001225 system optimization 
+0.001225 using xml 
+0.001225 system peer 
+0.001225 merging 
+0.001225 directory 
+0.001222 dynamic 
+0.001221 based query 
+0.001213 multidimensional 
+0.001167 system network 
+0.001167 reducing 
+0.001167 stream continuous 
+0.001167 database system concurrency 
+0.001167 queue 
+0.001167 evaluation data 
+0.001167 massively 
+0.001167 data peer 
+0.001167 control time 
+0.001167 redundancy 
+0.001167 bulk 
+0.001167 database machine 
+0.001167 architecture data 
+0.001167 server microsoft 
+0.001167 query containment 
+0.001167 spatial processing 
+0.001167 query probabilistic 
+0.001167 deadlock 
+0.001167 optimistic 
+0.001167 evaluation query efficient 
+0.001167 tree query 
+0.001167 using optimization 
+0.001167 management transaction 
+0.001167 shape shading 
+0.001167 system load 
+0.001167 database multimedia 
+0.001167 object spatial 
+0.001155 resource 
+0.001142 consistency 
+0.001067 surface 
+0.001 streaming 
+9.94E-4 top 
+9.64E-4 recursive 
+9.16E-4 continuous 
+8.86E-4 aggregation 
+8.77E-4 database object system 
+8.75E-4 database data 
+8.43E-4 organization 
+8.09E-4 object system 
+7.76E-4 object oriented 
+7.68E-4 database object oriented 
+7.29E-4 sharing 
+7.03E-4 managing 
+6.77E-4 technique 
+6.72E-4 update 
+3.92E-4 flexible 
+3.88E-4 correspondence 
+3.57E-4 environment 
+3.43E-4 reconstruction 
+2.07E-4 database oriented 
+1.57E-4 structure data 
+1.51E-4 global 
+9.6E-5 chain 
+7.1E-5 strategy 
+6.9E-5 system management data 
+5.9E-5 object system oriented 
+5.4E-5 database system management 
+4.9E-5 dynamic data 
+4.2E-5 management data 
+8.0E-6 system oriented 
+-8.0E-6 table 
+-3.6E-5 heterogeneous 
+-4.3E-5 approach data 
+-7.3E-5 maintaining 
+-8.9E-5 evaluation system 
+-1.29E-4 compressed 
+-1.33E-4 window 
+-1.43E-4 data efficient 
+-1.6E-4 grid 
+-1.61E-4 minimization 
+-1.7E-4 database update 
+-1.72E-4 algorithm parallel 
+-1.89E-4 database using 
+-2.01E-4 model query 
+-2.18E-4 version 
+-2.19E-4 based database 
+-2.25E-4 medium 
+-2.38E-4 unified 
+-2.53E-4 limited 
+-2.64E-4 spatial data 
+-2.73E-4 list 
+-2.77E-4 aware 
+-2.91E-4 integration data 
+-3.39E-4 object model 
+-3.6E-4 method data 
+-3.92E-4 system data 
+-4.06E-4 predicate 
+-4.37E-4 policy 
+-4.38E-4 selectivity 
+-4.56E-4 autonomous 
+-4.56E-4 operator 
+-4.73E-4 xml document 
+-5.41E-4 hashing 
+-5.53E-4 power 
+-5.89E-4 filter 
+-5.96E-4 database management 
+-6.49E-4 concurrent 
+-6.5E-4 extension 
+-6.97E-4 communication 
+-7.14E-4 oriented 
+-7.16E-4 data technique 
+-8.12E-4 effect 
+-8.18E-4 constrained 
+-8.5E-4 system multi 
+-8.5E-4 phase 
+-8.67E-4 database system relational 
+-8.78E-4 depth 
+-9.22E-4 histogram 
+-9.32E-4 extending 
+-9.45E-4 projection 
+-9.82E-4 database temporal 
+-0.001019 video 
+-0.001044 transformation 
+-0.001129 cube 
+-0.001151 language query 
+-0.001165 system management 
+-0.001185 implementation 
+-0.001191 scene 
+-0.001199 translation 
+-0.001241 statistic 
+-0.001273 scheme 
+-0.001288 answer 
+-0.001322 hierarchy 
+-0.001325 cost 
+-0.001328 system relational 
+-0.001331 database approach 
+-0.001337 data relational 
+-0.001337 database model 
+-0.00141 algebra 
+-0.001414 database deductive 
+-0.001457 effective 
+-0.001461 mechanism 
+-0.001489 efficiently 
+-0.001561 dbms 
+-0.001651 resolution 
+-0.001686 partitioning 
+-0.001697 structural 
+-0.001724 geometric 
+-0.001741 using data 
+-0.001742 incremental 
+-0.001751 model data 
+-0.001755 tracking 
+-0.001775 evaluating 
+-0.001856 world 
+-0.00188 time data 
+-0.001881 based data 
+-0.001887 answering 
+-0.00191 line 
+-0.002097 stream 
+-0.002125 integrated 
+-0.00216 based approach 
+-0.002168 hybrid 
+-0.002177 database design 
+-0.00219 level 
+-0.002192 flow 
+-0.002197 deductive 
+-0.002265 source 
+-0.00227 algorithm data 
+-0.002297 integration 
+-0.002325 modeling 
+-0.002331 multimedia 
+-0.002385 computation 
+-0.002517 visual 
+-0.00252 data stream 
+-0.002541 integrating 
+-0.00258 plan 
+-0.002623 management 
+-0.002743 sampling 
+-0.002786 algorithm efficient 
+-0.002846 online 
+-0.002868 based system 
+-0.002903 semantics 
+-0.002931 complexity 
+-0.003016 computing 
+-0.003023 structure 
+-0.003057 comparison 
+-0.0031 mobile 
+-0.003108 function 
+-0.003109 database relational 
+-0.003117 relation 
+-0.003199 framework 
+-0.003303 result 
+-0.003339 estimation 
+-0.003342 computer 
+-0.003391 indexing 
+-0.003444 linear 
+-0.003508 base data 
+-0.003526 sequence 
+-0.003582 filtering 
+-0.003721 robust 
+-0.003737 towards 
+-0.004123 efficient 
+-0.004418 dimensional 
+-0.004427 engine 
+-0.00452 space 
+-0.004549 approximate 
+-0.004665 hierarchical 
+-0.004708 matching 
+-0.004846 multiple 
+-0.005268 support 
+-0.005385 probabilistic 
+-0.005732 machine 
+-0.005929 detection 
+-0.006083 temporal 
+-0.006563 multi 
+-0.006568 database 
+-0.006585 fast 
+-0.006758 base 
+-0.006836 optimal 
+-0.00691 image 
+-0.007462 application 
+-0.007629 semantic 
+-0.007652 approach 
+-0.007984 analysis 
+-0.008163 language 
+-0.008804 design 
+-0.008816 document 
+-0.008837 selection 
+-0.009163 constraint 
+-0.009229 method 
+-0.009881 relational 
+-0.012228 network 
+-0.01315 tree 
+-0.014107 time 
+-0.015145 system 
+-0.017068 model 
+-0.022437 data 
+-0.023598 based 
+-0.02634 using 
+-0.027697 algorithm 

@@ -1,0 +1,366 @@
+178 solving 
+151 maintenance 
+145 network 
+139 framework 
+128 relation 
+117 learning reinforcement 
+112 process 
+112 modeling 
+111 complexity 
+111 inference 
+105 plan 
+101 analysis 
+95 environment 
+94 heuristic 
+93 issue 
+89 knowledge representation 
+87 logic program 
+85 database design 
+84 towards 
+83 automatic 
+82 system expert 
+82 level 
+81 formal 
+80 constraint satisfaction 
+78 abstraction 
+77 view 
+76 technique 
+74 machine 
+74 semantic 
+74 method 
+73 perspective 
+73 dbms 
+73 practical 
+71 goal 
+71 function 
+69 type 
+67 mechanism 
+67 architecture 
+66 incremental 
+66 model data 
+66 calculus 
+65 distributed 
+65 structure 
+65 intelligence artificial 
+64 probabilistic 
+64 robot 
+63 automated 
+63 conceptual 
+63 database object oriented 
+62 experience 
+62 explanation 
+62 resolution 
+61 database approach 
+60 propagation 
+59 software 
+58 human 
+58 representing 
+58 heterogeneous 
+58 proof 
+57 database application 
+57 computational 
+57 extended abstract 
+57 space 
+56 causal 
+56 based model 
+55 system design 
+55 intelligent 
+55 complex 
+55 dynamic 
+54 business 
+54 simulation 
+54 fuzzy 
+53 change 
+53 database deductive 
+53 challenge 
+52 database model 
+52 data relational 
+52 language database 
+52 role 
+51 multiple 
+51 property 
+50 hierarchy 
+50 world 
+50 support 
+50 decomposition 
+49 implementing 
+49 theoretical 
+49 result 
+48 relationship 
+48 meta 
+48 checking 
+47 propositional 
+46 event 
+46 description logic 
+45 scientific 
+45 declarative 
+45 generalized 
+45 experimental 
+45 prolog 
+45 definition 
+45 preference 
+45 querying 
+44 evolution 
+44 equilibrium 
+44 stochastic 
+44 model system 
+43 system production 
+43 transformation 
+43 system reasoning 
+42 transaction 
+42 system application 
+42 extending 
+41 database constraint 
+41 inheritance 
+41 system rule 
+41 acquisition knowledge 
+41 database data 
+41 study 
+41 statistical 
+41 system base data 
+41 workflow 
+40 quantitative 
+40 based approach 
+40 tractable 
+40 situation 
+40 message 
+40 generation 
+40 evaluation 
+39 interactive 
+39 database temporal 
+39 foundation 
+39 algebraic 
+39 refinement 
+39 principle 
+39 database system relational 
+39 partially 
+39 knowledge using 
+38 diagnostic 
+38 learning system 
+38 learning knowledge 
+38 learning based 
+38 formula 
+38 predicate 
+38 functional dependency 
+38 exploiting 
+38 equivalence 
+38 ontology 
+37 reasoning temporal 
+37 model relational 
+37 theorem proving 
+37 based reasoning 
+37 policy 
+37 requirement 
+37 based logic 
+36 formation 
+36 datalog 
+36 concurrent 
+36 language programming 
+36 knowledge reasoning 
+36 based database 
+36 synthesis 
+36 database rule 
+35 multidatabase 
+35 value 
+35 based constraint 
+35 data abstract 
+35 execution 
+35 logic programming inductive 
+35 operator 
+35 universal 
+34 computing 
+34 knowledge data 
+34 overview 
+34 author 
+34 representation system 
+34 multiagent 
+34 conflict 
+34 expressive 
+33 aspect 
+33 solution 
+33 behavior 
+33 logic system 
+33 scheme 
+33 extension 
+33 reasoning qualitative 
+33 boolean 
+32 security 
+32 logic default 
+32 constraint integrity 
+32 application data 
+32 experiment 
+32 knowledge expert 
+32 database schema 
+32 procedure 
+32 nonmonotonic 
+32 methodology 
+31 system approach 
+31 hard 
+31 science 
+31 learning model 
+31 based rule 
+31 autonomous 
+31 configuration 
+31 procedural 
+31 database abstract 
+31 spatial 
+31 directed 
+31 satisfiability 
+31 database system management 
+30 analogy 
+30 development 
+30 recursive 
+30 manipulation 
+30 revision belief 
+30 paper 
+30 base relational 
+30 partial 
+30 database programming 
+30 knowledge database discovery 
+30 database panel 
+30 database active 
+29 interaction 
+29 answer 
+29 parallel 
+29 knowledge approach 
+29 knowledge domain 
+29 learning concept 
+29 transfer 
+29 hardware 
+29 direction 
+29 induction 
+29 prototype 
+28 neural 
+28 monotonic 
+28 system information 
+28 utility 
+28 interpretation 
+28 constraint temporal 
+28 set rough 
+28 clause 
+28 database tool 
+28 multi 
+28 argument 
+28 horn 
+28 table 
+28 database information 
+27 version 
+27 basis 
+27 difference 
+27 logic reasoning 
+27 commitment 
+27 negation 
+27 construction 
+27 testing 
+27 example 
+27 approach data 
+27 planning domain 
+26 verification 
+26 equation 
+26 learning game 
+26 debugging 
+26 driven 
+26 title 
+26 managing 
+26 knowledge management 
+26 reward 
+26 database logical 
+26 mapping schema 
+26 task 
+26 object system oriented 
+26 approach design 
+26 compilation 
+26 hypothesis 
+26 negotiation 
+25 normal form 
+25 learning approach 
+25 adding 
+25 consistency 
+25 logic model 
+25 learning inductive 
+25 search 
+25 database specification 
+25 base design data 
+25 interface 
+25 knowledge logic 
+25 disjunctive 
+25 model reasoning 
+25 system management data 
+25 terminological 
+25 database research 
+24 language data 
+24 database using 
+24 circumscription 
+24 step 
+24 logic database 
+24 computer aided 
+24 mdps 
+24 knowledge application 
+24 skill 
+24 observable 
+24 based knowledge system 
+24 understanding 
+23 reasoning constraint 
+23 committee 
+23 system abstract 
+23 knowledge design 
+23 theory practice 
+23 preliminary report 
+23 forward 
+23 design physical 
+23 tutorial 
+23 knowledge model 
+23 power 
+23 net 
+23 circuit 
+23 future 
+23 flexible 
+23 database integrity 
+23 observation 
+23 reasoning default 
+23 diagnosis system 
+23 building 
+23 relational algebra 
+23 object model 
+22 database implementation 
+22 advanced 
+22 database technology 
+22 knowledge system base 
+22 tolerant fault 
+22 index 
+22 engineering data 
+22 database dependency 
+22 integrating system 
+22 abduction 
+22 database semantics 
+22 symbolic 
+22 integration data 
+22 lisp 
+22 quantified 
+22 versus 
+22 modular 
+22 condition 
+22 monitoring 
+22 base management data 
+22 expression 
+22 database update 
+22 meet 
+22 logic modal 
+21 facility 
+21 information incomplete 
+21 inferring 
+21 using system 
+21 updating 
+21 action reasoning 
+21 system implementation 
+21 introduction 
+21 based programming 
+21 system program 
+21 language model 
+21 argumentation 
+21 based language 
+21 telecommunication 
+21 database object system 
+21 learning relational 
+21 analogical 
+21 protocol 

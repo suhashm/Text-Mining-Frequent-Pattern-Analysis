@@ -1,0 +1,564 @@
+0.1231 web 
+0.1216 information 
+0.1119 retrieval 
+0.0867 based 
+0.076 system 
+0.071 search 
+0.0566 document 
+0.0492 language 
+0.0477 information retrieval 
+0.0423 model 
+0.0416 semantic 
+0.0387 user 
+0.0379 text 
+0.0378 using 
+0.0318 approach 
+0.0279 agent 
+0.0268 service 
+0.0261 query 
+0.0229 data 
+0.0229 natural 
+0.0225 analysis 
+0.0219 application 
+0.0219 automatic 
+0.0212 content 
+0.0211 image 
+0.0183 mining 
+0.0182 engine 
+0.0181 relevance 
+0.0178 term 
+0.0174 interface 
+0.0174 web search 
+0.0171 language natural 
+0.0166 extraction 
+0.0165 context 
+0.0161 interactive 
+0.0161 evaluation 
+0.0158 system information 
+0.0158 filtering 
+0.0157 generation 
+0.0156 feedback 
+0.0156 based retrieval 
+0.0149 collaborative 
+0.0148 system retrieval 
+0.0142 retrieval document 
+0.014 towards 
+0.0139 multi 
+0.0137 study 
+0.0132 page 
+0.0128 collection 
+0.0124 robot 
+0.0123 search engine 
+0.0121 question 
+0.012 result 
+0.0119 structured 
+0.0117 service web 
+0.0117 driven 
+0.0116 mobile 
+0.0115 knowledge 
+0.0114 topic 
+0.0113 scale 
+0.0112 modeling 
+0.0111 database 
+0.011 indexing 
+0.0109 based web 
+0.0108 environment 
+0.0107 web page 
+0.0106 word 
+0.0106 understanding 
+0.0105 based system 
+0.0104 semantic web 
+0.0104 xml 
+0.0104 building 
+0.0102 social 
+0.01 based information 
+0.0096 similarity 
+0.0095 management 
+0.0095 task 
+0.0095 ranking 
+0.0094 site 
+0.0094 searching 
+0.0091 source 
+0.009 cross 
+0.009 theoretic 
+0.0089 integration 
+0.0088 answering 
+0.0088 model retrieval 
+0.0088 structure 
+0.0088 ontology 
+0.0087 domain 
+0.0087 classification 
+0.0085 multimedia 
+0.0084 measure 
+0.0083 retrieval text 
+0.0083 behavior 
+0.0082 digital 
+0.0082 summarization 
+0.0081 visual 
+0.008 intelligent 
+0.008 extracting 
+0.0079 web information 
+0.0079 improving 
+0.0079 based approach 
+0.0079 architecture 
+0.0079 based model 
+0.0079 concept 
+0.0079 browsing 
+0.0077 language retrieval 
+0.0077 answering question 
+0.0077 expert 
+0.0077 integrated 
+0.0076 automated 
+0.0076 system information retrieval 
+0.0076 based content 
+0.0075 annotation 
+0.0075 language information 
+0.0075 community 
+0.0074 link 
+0.0074 quality 
+0.0073 retrieval image 
+0.0073 using web 
+0.0073 abstract 
+0.0073 clustering 
+0.0072 relevance feedback 
+0.0072 interaction 
+0.0072 generating 
+0.0071 strategy 
+0.007 model information 
+0.0069 log 
+0.0069 development 
+0.0069 information extraction 
+0.0068 filtering collaborative 
+0.0068 based document 
+0.0068 framework 
+0.0068 tool 
+0.0068 language model 
+0.0068 world 
+0.0067 using information 
+0.0067 personalized 
+0.0067 access 
+0.0067 evaluating 
+0.0066 video 
+0.0065 keyword 
+0.0065 based search 
+0.0065 corpus 
+0.0065 web site 
+0.0064 uncertainty 
+0.0063 effective 
+0.0063 adaptive 
+0.0063 using retrieval 
+0.0063 result search 
+0.0063 web query 
+0.0062 online 
+0.0061 network 
+0.0061 dynamic 
+0.006 probabilistic 
+0.006 web application 
+0.006 news 
+0.006 performance 
+0.006 modelling 
+0.006 technology 
+0.0059 web mining 
+0.0058 recommendation 
+0.0058 music 
+0.0058 retrieval content 
+0.0057 schema 
+0.0057 library 
+0.0057 discovery 
+0.0056 web document 
+0.0055 user interface 
+0.0055 language information retrieval 
+0.0054 internet 
+0.0054 experiment 
+0.0054 platform 
+0.0054 method 
+0.0052 web user 
+0.0052 sentence 
+0.0052 query retrieval 
+0.0052 support 
+0.0052 grammar 
+0.0051 cooperative 
+0.0051 personal 
+0.0051 parsing 
+0.0051 specific 
+0.0051 level 
+0.0051 challenge 
+0.005 navigation 
+0.005 information document 
+0.005 language system 
+0.005 planning 
+0.0049 exploration 
+0.0049 cluster 
+0.0049 latent 
+0.0049 chinese 
+0.0049 translation 
+0.0049 based information retrieval 
+0.0049 research 
+0.0048 based language 
+0.0048 web data 
+0.0047 wide 
+0.0047 answer 
+0.0047 oriented 
+0.0047 based user 
+0.0047 approach retrieval 
+0.0046 model information retrieval 
+0.0046 language query 
+0.0046 implicit 
+0.0046 evaluation retrieval 
+0.0046 information text 
+0.0046 design 
+0.0046 information approach 
+0.0046 independent 
+0.0046 phrase 
+0.0045 relationship 
+0.0045 enterprise 
+0.0044 speech 
+0.0044 multiple 
+0.0044 relevant 
+0.0044 multi agent 
+0.0044 web content 
+0.0044 mining data 
+0.0044 electronic 
+0.0043 language cross 
+0.0043 based image 
+0.0043 web retrieval 
+0.0043 summary 
+0.0042 location 
+0.0042 web system 
+0.0042 profile 
+0.0042 interpretation 
+0.0042 query search 
+0.0042 improve 
+0.0042 matching 
+0.0042 demonstration 
+0.0042 based retrieval content 
+0.0041 cognitive 
+0.0041 test 
+0.0041 prediction 
+0.0041 commerce 
+0.0041 based semantic 
+0.0041 system document 
+0.0041 acquisition 
+0.004 semantics 
+0.004 system user 
+0.004 software 
+0.004 user information 
+0.004 visualization 
+0.0039 effectiveness 
+0.0039 semantic latent 
+0.0039 statistical 
+0.0038 retrieval cross 
+0.0038 supporting 
+0.0038 email 
+0.0038 self 
+0.0038 resource 
+0.0038 game 
+0.0038 comparative 
+0.0038 web extraction 
+0.0037 communication 
+0.0037 session 
+0.0037 information search 
+0.0036 project 
+0.0036 human 
+0.0036 hypertext 
+0.0036 semantic information 
+0.0036 web approach 
+0.0036 conceptual 
+0.0036 web engine 
+0.0036 english 
+0.0036 syntactic 
+0.0036 user retrieval 
+0.0036 user search 
+0.0036 impact 
+0.0036 exploiting 
+0.0036 using search 
+0.0036 mapping 
+0.0036 integrating 
+0.0036 retrieval relevance 
+0.0035 based text 
+0.0035 contextual 
+0.0035 system expert 
+0.0035 precision 
+0.0035 linguistic 
+0.0035 web wide 
+0.0035 based using 
+0.0035 using document 
+0.0035 automatically 
+0.0035 text document 
+0.0035 model web 
+0.0034 search keyword 
+0.0034 system agent 
+0.0034 system multi 
+0.0034 semantic retrieval 
+0.0034 digital library 
+0.0034 web world 
+0.0033 response 
+0.0033 system natural 
+0.0033 personalization 
+0.0033 business 
+0.0033 using model 
+0.0033 language retrieval cross 
+0.0033 world wide 
+0.0033 effect 
+0.0033 based filtering 
+0.0033 web world wide 
+0.0033 aware 
+0.0033 automatic web 
+0.0033 graphical 
+0.0033 role 
+0.0033 detecting 
+0.0033 composition 
+0.0033 device 
+0.0033 enhancing 
+0.0033 medical 
+0.0033 system text 
+0.0033 robot mobile 
+0.0033 retrieval feedback 
+0.0033 scalable 
+0.0032 experimental 
+0.0032 exploring 
+0.0032 result web 
+0.0032 computer 
+0.0032 hierarchy 
+0.0032 process 
+0.0032 panel 
+0.0032 detection 
+0.0031 analysis system 
+0.0031 based similarity 
+0.0031 map 
+0.0031 using system 
+0.0031 semantic using 
+0.0031 based retrieval image 
+0.0031 web search engine 
+0.0031 information theoretic 
+0.0031 dialogue 
+0.0031 evaluation information 
+0.0031 wikipedia 
+0.0031 model system 
+0.003 proximity 
+0.003 sensitive 
+0.003 collection document 
+0.003 poster 
+0.003 language interface 
+0.003 distributed 
+0.003 xml document 
+0.003 model document 
+0.003 information cross 
+0.003 search document 
+0.003 language system natural 
+0.003 based agent 
+0.003 multilingual 
+0.003 search retrieval 
+0.003 information query 
+0.003 web driven 
+0.003 structured document 
+0.003 retrieval term 
+0.003 sharing 
+0.0029 information approach retrieval 
+0.0029 enabling 
+0.0029 textual 
+0.0029 query document 
+0.0029 based analysis 
+0.0029 opinion 
+0.0029 example 
+0.0029 preference 
+0.0029 virtual 
+0.0028 automatic retrieval 
+0.0028 finding 
+0.0028 based query 
+0.0028 workshop 
+0.0028 product 
+0.0028 information retrieval cross 
+0.0028 automatic generation 
+0.0028 organizing 
+0.0028 language using 
+0.0028 construction 
+0.0028 based service 
+0.0028 result web search 
+0.0028 generic 
+0.0028 system data 
+0.0027 designing 
+0.0027 segmentation 
+0.0027 dictionary 
+0.0027 caching 
+0.0027 search text 
+0.0027 similarity measure 
+0.0027 vision 
+0.0027 tracking 
+0.0027 web text 
+0.0027 using information retrieval 
+0.0027 privacy 
+0.0027 tag 
+0.0027 using query 
+0.0027 system search 
+0.0026 attack 
+0.0026 web searching 
+0.0026 image content 
+0.0026 organization 
+0.0026 focused 
+0.0026 interface retrieval 
+0.0026 expertise 
+0.0026 rule 
+0.0026 based ontology 
+0.0026 based knowledge 
+0.0026 integration information 
+0.0026 language information cross 
+0.0026 measuring 
+0.0026 crawling 
+0.0026 language model retrieval 
+0.0026 hoc 
+0.0025 advanced 
+0.0025 recommender 
+0.0025 system management 
+0.0025 metadata 
+0.0025 evolution 
+0.0025 web analysis 
+0.0025 event 
+0.0025 comparison 
+0.0025 application information 
+0.0025 office 
+0.0025 memory 
+0.0025 mining text 
+0.0025 language information retrieval cross 
+0.0025 based collaborative 
+0.0025 information context 
+0.0025 information query retrieval 
+0.0025 abstract poster 
+0.0025 model user 
+0.0025 novel 
+0.0025 information filtering 
+0.0025 passage 
+0.0024 click 
+0.0024 system interface 
+0.0024 based image content 
+0.0024 beyond 
+0.0024 retrieval indexing 
+0.0024 semantic analysis 
+0.0024 service composition 
+0.0024 collection retrieval 
+0.0024 unstructured 
+0.0024 industrial 
+0.0024 interestingness 
+0.0024 identification 
+0.0024 language web 
+0.0024 past 
+0.0024 browser 
+0.0024 system interactive 
+0.0024 semantic document 
+0.0024 evaluation information retrieval 
+0.0024 record 
+0.0024 help 
+0.0024 web towards 
+0.0024 workflow 
+0.0024 structured retrieval 
+0.0024 language text 
+0.0023 people 
+0.0023 natural interface 
+0.0023 portal 
+0.0023 deep 
+0.0023 semantic model 
+0.0023 server 
+0.0023 language natural interface 
+0.0023 information access 
+0.0023 using feedback 
+0.0023 remote 
+0.0023 vocabulary 
+0.0023 type 
+0.0023 semantic indexing 
+0.0023 coordination 
+0.0023 meaning 
+0.0023 future 
+0.0023 flexible 
+0.0023 retrieval probabilistic 
+0.0022 ranking search 
+0.0022 retrieval image content 
+0.0022 archive 
+0.0022 web study 
+0.0022 document summarization 
+0.0022 based indexing 
+0.0022 network social 
+0.0022 retrieval abstract 
+0.0022 taxonomy 
+0.0022 developing 
+0.0022 information retrieval text 
+0.0022 usage 
+0.0022 overview 
+0.0022 refinement 
+0.0022 document term 
+0.0022 judgment 
+0.0022 reactive 
+0.0022 approach document 
+0.0022 system content 
+0.0022 via 
+0.0022 approach search 
+0.0022 systematic 
+0.0022 identifying 
+0.0022 medium 
+0.0022 infrastructure 
+0.0022 based relevance 
+0.0021 web management 
+0.0021 rapid 
+0.0021 frequency 
+0.0021 capturing 
+0.0021 automatic document 
+0.0021 web composition 
+0.0021 information source 
+0.0021 system understanding 
+0.0021 based extraction 
+0.0021 www 
+0.0021 enhanced 
+0.0021 application data 
+0.0021 based natural 
+0.0021 retrieving 
+0.0021 biomedical 
+0.0021 web link 
+0.0021 search xml 
+0.0021 profiling 
+0.0021 evaluation system 
+0.0021 based retrieval image content 
+0.0021 clustering document 
+0.0021 retrieval interactive 
+0.0021 service web composition 
+0.0021 table 
+0.0021 prototype 
+0.0021 concept based 
+0.002 management data 
+0.002 block 
+0.002 based system retrieval 
+0.002 language model information 
+0.002 context retrieval 
+0.002 retrieval relevance feedback 
+0.002 pseudo 
+0.002 disambiguation 
+0.002 story 
+0.002 using analysis 
+0.002 test collection 
+0.002 complex 
+0.002 website 
+0.002 category 
+0.002 language generation 
+0.002 system multi agent 
+0.002 web source 
+0.002 presentation 
+0.002 based clustering 
+0.002 document relevance 
+0.002 information mining 
+0.002 assistant 
+0.002 based application 
+0.002 intensive 
+0.002 based model retrieval 
+0.002 model query 
+0.002 assessment 
+0.002 system recommender 
+0.002 retrieval music 
+0.002 web log 
+0.002 semantic search 
+0.002 visualizing 
+0.002 spam 
+0.002 extraction document 
+0.002 based term 
+0.002 system retrieval document 
+0.002 scoring 
+0.002 system image 
+0.002 dependent 
+0.002 language document 
